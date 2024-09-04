@@ -1,8 +1,8 @@
 # typst-report
 
-#### TO COMPILE LOCALLY RUN $ typst watch main.typ
+#### TO COMPILE LOCALLY RUN $ `typst watch main.typ`
 
-#### TO VIEW PDF LOCALLY RUN $ tinymist preview main.typ --partial-rendering
+#### TO VIEW PDF LOCALLY RUN $ `tinymist preview main.typ --partial-rendering`
 
 ### typst
 
