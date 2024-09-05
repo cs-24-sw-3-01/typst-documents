@@ -1,16 +1,16 @@
-# typst-report
+# Daily Plan
 
-#### TO COMPILE LOCALLY RUN $ `typst watch main.typ`
+## Date
+05/08/2024
 
-#### TO VIEW PDF LOCALLY RUN $ `tinymist preview main.typ --partial-rendering`
+## Tasks
+Everyone is doing the group contract today.
 
-### typst
+*Mads*: GC
+*Marc*: GC
+*Zafir*: GC
+*Thorbjorn*: GC
+*Dandan*: GC
+*Elma*: GC
+*Sille*: GC
 
-[typst](https://github.com/typst/typst) \
-macOS: `brew install typst` \
-Windows: `winget install --id Typst.Typst`
-
-### tinymist
-
-[tinymist](https://github.com/Myriad-Dreamin/tinymist) \
-macOS: `brew install tinymist`
