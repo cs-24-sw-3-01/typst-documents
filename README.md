@@ -6,11 +6,11 @@
 ## Tasks
 Everyone is doing the group contract today.
 
-*Mads*: GC
-*Marc*: GC
-*Zafir*: GC
-*Thorbjorn*: GC
-*Dandan*: GC
-*Elma*: GC
-*Sille*: GC
+**Mads**: GC\
+**Marc**: GC\
+**Zafir**: GC\
+**Thorbjorn**: GC\
+**Dandan**: GC\
+**Elma**: GC\
+**Sille**: GC
 
