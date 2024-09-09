@@ -29,6 +29,7 @@ Today we writing to companies. We are planning on deciding on which company Thur
 - [ ] Kamstrup
 - [ ] Norlys
 - [ ] TDC
+- [ ] Continia Software
 
 ### E-mail template
 
