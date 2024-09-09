@@ -10,6 +10,28 @@
 ## Notes
 Today we writing to companies. We are planning on deciding on which company Thursday 12/08/2024.
 
+### Possible companies
+- [ ] Danfoss
+- [ ] Netcompany
+- [ ] Dawn Health
+- [ ] DSV
+- [ ] Energinet
+- [ ] Forsvaret
+- [ ] Regnskabsstyrelsen - frs-forvl9@mil.dk
+- [ ] Grundfos
+- [ ] Lundbeck
+- [ ] Lyngsøe Systems
+- [ ] AV-Cables
+- [ ] HBK World
+- [ ] itm8
+- [ ] Immeo
+- [ ] Kallundbord Refinery
+- [ ] Kamstrup
+- [ ] Norlys
+- [ ] TDC
+
+### E-mail template
+
 **Mads**: N/A\
 **Marc**: N/A\
 **Zafir**: N/A\
