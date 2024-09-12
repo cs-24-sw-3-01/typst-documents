@@ -11,25 +11,26 @@
 Today we writing to companies. We are planning on deciding on which company Thursday 12/08/2024.
 
 ### Possible companies
-- [ ] Danfoss
-- [ ] Netcompany
-- [ ] Dawn Health
-- [ ] DSV
-- [ ] Energinet
-- [ ] Forsvaret
-- [ ] Regnskabsstyrelsen - frs-forvl9@mil.dk
-- [ ] Grundfos
-- [ ] Lundbeck
-- [ ] Lyngsøe Systems
-- [ ] AV-Cables
-- [ ] HBK World
-- [ ] itm8
-- [ ] Immeo
-- [ ] Kallundbord Refinery
-- [ ] Kamstrup
-- [ ] Norlys
-- [ ] TDC
-- [ ] Continia Software
+- **Not Sent** | Danfoss
+- **Appending Approvement** | KMD
+- **Not Sent** | Netcompany
+- **Not Sent** | Dawn Health
+- **Not Sent** | DSV
+- **Not Sent** | Energinet
+- **Not Sent** | Forsvaret
+- **Not Sent** | Regnskabsstyrelsen - frs-forvl9@mil.dk
+- **Not Sent** | Grundfos
+- **Not Sent** | Lundbeck
+- **Not Sent** | Lyngsøe Systems
+- **Not Sent** | AV-Cables
+- **Not Sent** | HBK World
+- **Not Sent** | itm8
+- **Not Sent** | Immeo
+- **Not Sent** | Kallundbord Refinery
+- **Not Sent** | Kamstrup
+- **Not Sent** | Norlys
+- **Not Sent** | TDC
+- **Not Sent** | Continia Software
 
 ### E-mail template
 
