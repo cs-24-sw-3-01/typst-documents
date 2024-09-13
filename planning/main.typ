@@ -32,7 +32,7 @@ så bliver det nødvendige arbejde stadig udført.
 
 == Det Sociale
 - Vi laver ryst-sammen til at starte med
-- Vi holder følerfredag 
+- Vi holder følertorsdag 
  - Hvordan har man det?
  - Utilfreds?
 - _Walk and talks_ for at hygge sammen
