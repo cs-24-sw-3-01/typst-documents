@@ -8,10 +8,10 @@
 // to customize this template and discover how it works.
 #show: project.with(
   meta: (
-    title: "AAU Project Report Name",
+    title: "KMD A/S Ferieplanlægger",
     theme: "Insert theme name",
     project_period: "Fall Semester 2024",
-    project_group: "cs-24-sw-3-xx",
+    project_group: "cs-24-sw-3-01",
     participants: (
       (name: "Dandan Zhao", email: "dzhao23@student.aau.dk"),
       (name: "Elma Vukicevic", email: "evukic23@student.aau.dk"),
