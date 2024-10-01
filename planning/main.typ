@@ -49,3 +49,11 @@ Hvis dette fortsætter indblandes vejleder, eller medlemmet kan blive smidt ud
 
 == Forventningsafstemning
 - Vi gør vores bedste. Vi vil naturligvis gerne have høj karakter, men så længe all gør deres bedste er alt godt
+
+#pagebreak()
+
+= ToDo til 18/09/2024
+\
+- Kig på brainstorm i 15-20 minutter og lav spørgsmål til interview
+- Discord møde kl 11:00 
+
