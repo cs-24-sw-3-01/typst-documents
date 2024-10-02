@@ -1,2 +1,4 @@
 = Introduction
-#lorem(100)
+Now i have written the introduction :)
+Best regards,
+Mads
