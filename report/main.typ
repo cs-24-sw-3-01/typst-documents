@@ -53,6 +53,9 @@
 #pagebreak(weak: true)
 
 #include "chapters/implementation.typ"
+#pagebreak(weak: true)
 
+#include "chapters/SU-DEB-Analysis.typ"
+#pagebreak(weak: true)
 
 #bibliography("sources/sources1.bib")
