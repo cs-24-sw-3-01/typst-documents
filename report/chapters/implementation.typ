@@ -1,5 +1,5 @@
 #import "../custom.typ": *
 
-== Implementation
+= Implementation
 
 Hej!
