@@ -35,16 +35,17 @@
 // This is the primary file in the project.
 // Commonly referred to as 'master' in LaTeX, and wokenly called 'main' in Typst.
 
-#include "styleguide.typ"
-#pagebreak(weak: true)
+#let render = false
 
-#include "chapters/chapter1.typ"
-#pagebreak(weak: true)
-
-#include "chapters/chapter2.typ"
+#if render == false [
+#include "chapters/styleguide.typ"
 #pagebreak(weak: true)
 
 #include "chapters/components.typ"
+#pagebreak(weak: true)
+]
+
+#include "chapters/introduction.typ"
 #pagebreak(weak: true)
 
 #bibliography("sources/sources1.bib")
