@@ -22,7 +22,7 @@
       (name: "Thorbjørn Dige Larsen", email: "tdla23@student.aau.dk"),
     ),
     supervisor: (
-      (name: "Supervisor 1", email: "supervisor@studnet.aau.dk"),
+      (name: "Asger Horn Brorholt", email: "asgerhb@cs.aau.dk"),
     ),
     date: datetime.today().display()
   ),
