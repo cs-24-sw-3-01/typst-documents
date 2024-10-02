@@ -53,6 +53,8 @@
 #pagebreak(weak: true)
 
 #include "chapters/implementation.typ"
+#pagebreak(weak: true)
 
+#include "chapters/implementationV2.typ"
 
 #bibliography("sources/sources1.bib")
