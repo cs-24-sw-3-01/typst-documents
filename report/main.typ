@@ -48,4 +48,6 @@
 #include "chapters/introduction.typ"
 #pagebreak(weak: true)
 
+#include "chapters/implementation.typ"
+
 #bibliography("sources/sources1.bib")
