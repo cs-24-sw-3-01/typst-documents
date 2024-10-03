@@ -1,6 +1,6 @@
 = Problem Analysis
 
-== Potential Problems & Feature Requests
+== Potential Problems \& Feature Requests
 
 == PACT
 
