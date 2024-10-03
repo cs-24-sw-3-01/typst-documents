@@ -48,14 +48,32 @@
 #include "chapters/introduction.typ"
 #pagebreak(weak: true)
 
-
-#include "chapters/problemdefinition.typ"
+#include "chapters/problem_analysis.typ"
 #pagebreak(weak: true)
+
+
+#include "chapters/problem_domain_analysis.typ"
+#pagebreak(weak: true)
+
+
+#include "chapters/application_domain_analysis.typ"
+#pagebreak(weak: true)
+
+
+#include "chapters/design.typ"
+#pagebreak(weak: true)
+
 
 #include "chapters/implementation.typ"
 #pagebreak(weak: true)
 
-#include "chapters/SU-DEB-Analysis.typ"
+#include "chapters/testing.typ"
 #pagebreak(weak: true)
+
+#include "chapters/reflection.typ"
+#pagebreak(weak: true)
+
+
+
 
 #bibliography("sources/sources1.bib")
