@@ -1,3 +1,5 @@
+#import "../custom.typ": *
+
 = Styleguide
 
 == Language
