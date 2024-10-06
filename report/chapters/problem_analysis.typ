@@ -13,12 +13,13 @@ Transcriptions of said interviews can be found in appendix XYZ
 To find out why KMD needs a new system for managing their holiday calender i was important to find the problems with the current solution.
 The interviews revealed problems with synchronizing with their current SAP //Uddyb pls 
 system but surprisingly most of the problems with the current system is a lack of features due to the system being developed 10 years ago. 
-The features that are missing can be seen in @missing-features-table, the absence of these features and the synchronizing problems with SAP have led to most of the employees using other programs to plan their holidays with most of the active users being employees that have worked at the company for a longer time. 
+The features that are missing can be seen in @missing-features-table. \
+The absence of these features and the synchronizing problems with SAP have led to most of the employees using other programs to plan their holidays with most of the active users being employees that have worked at the company for a longer time. 
 
 
 #figure(
   table(
-    align: center, columns: (auto, 1fr), inset: 10pt,
+    align: center, columns: (auto, auto), inset: 5pt,
 
     table.header([* Missing feature *],[* Desciption *]), 
 
