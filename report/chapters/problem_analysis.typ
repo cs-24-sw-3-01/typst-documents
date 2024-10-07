@@ -2,8 +2,8 @@
 
 = Problem Analysis
 
-== Feature requests and \& potential problems 
-This chapther defines both the potential problems that KMD have with their current solution, and the features required in the new one. 
+== Feature Requests and Potential Problems 
+This chapther defines both the potential problems that KMD have with their current solution, and the features required in the new one. #todo[add a table of feature requests specifically requested by people that have been interviewed. (niche requests - to further on get a in depth analysis and thereby a greater defined design, with greater begrundelse) -Si]
 The different finds in this chapter was aquired through interviews with three company employees, their lead developer, Mats Lindberg, 
 their project portfolio manager, Caroline Ramsdal and their manager of modern workplace, Dion Andersen, respectivley. 
 
