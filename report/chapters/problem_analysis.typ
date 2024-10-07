@@ -6,6 +6,50 @@
 
 == PACT
 
+=== People
+The users comprise all employees of KMD. This includes employees of various roles, such as software developers, financial analysts, human relations, and administrative staff.
+
+These users need to be able to intuitively record their vacation days, in a simple system. 
+Furthermore they need to be able to compose teams of employees from different departments, for cross-department projects.
+At last, they need to be able to manually register vacation, since they sometimes do not have accrued enough vacation days
+in their SAP SucessFactors system.
+
+These users also have varying levels of technical proficiency. Therefore the systems interface must be intuitive for both technical and non-technical staff.
+
+=== Activities
+The primary activities of the system, will that of recording vacations days accompanied by the vacation reason
+and being able to compose teams consisting of employees from different departments.
+
+Users will firstly log in with their company supplied microsoft account, whereafter can
+either register vaction, select a team to see vacation days for, or record new vacation days.
+
+The system will be engaged with regularly, especically during the peak vacation periods.
+Project managers usually check it multiple times a week, to know they status of their team.
+
+=== Context
+The vacation planner will be accessible from all locations with internet connectivity, including
+at home, the office, or on the go with smartphones.
+
+Furthermore the product will facilitate collaboration among employees of different departments,
+allowing them to get a better overview of their teams.
+
+The useres will consist of both Danish and Polish users, which arises some cultural differences, including the specific
+holidays of Poland and Denmark, as well as varying approaches to vacation planning, communication styles and workplace expectations.
+
+=== Technologies
+The users are currently using a mix of the old vacation planner (the one being rewritten in this project), Outlook Calender, and SAP SuccessFactors. 
+They will continue to use Outlook Calender for meetings, and SAP SuccessFactors for primary vacation planning. The vacation planner system will merely be
+a way of viewing the vacation registered in SAP SuccessFactors, with the ability to override by manually registering vacations, when not possible in SAP SuccessFactors.
+This system is built with C\# and a Microsoft SQL database. \ \
+
+The new system will be built using Java with Spring Boot for the API, and React for the frontend, ensuring the ability to create a modern and responsive webappplication.
+
+For persistence, PostgreSQL will be used to efficiently and reliably store user data.
+
+It needs to integrate with SAP SuccessFactors to be able to show the vacation registered there.
+Furthermore it must also integrate with Microsoft Entra Id, to be able to authenticate the users.
+
+
 == FACTOR
 The FACTOR model has been applied to the absence calendar system to ensure a comprehensive analysis of the key components and requirements needed for successful implementation. The FACTOR model provides a structured approach to identifying the system’s functionality, the domain in which it operates, the conditions of development, the technologies involved, the objects that are central to the system, and the overall responsibilities. By using this model, we aim to clearly define how our system will function within the organizational context of KMD.
 
