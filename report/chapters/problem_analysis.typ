@@ -61,7 +61,8 @@ These users also have varying levels of technical proficiency. Therefore the sys
 The primary activities of the system, will that of recording vacations days accompanied by the vacation reason
 and being able to compose teams consisting of employees from different departments.
 
-Users will firstly log in with their company supplied microsoft account, whereafter can
+Users will firstly log in with their company supplied Microsoft account, whereafter can
+
 either register vaction, select a team to see vacation days for, or record new vacation days.
 
 The system will be engaged with regularly, especically during the peak vacation periods.
