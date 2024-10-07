@@ -85,7 +85,7 @@ They will continue to use Outlook Calender for meetings, and SAP SuccessFactors 
 a way of viewing the vacation registered in SAP SuccessFactors, with the ability to override by manually registering vacations, when not possible in SAP SuccessFactors.
 This system is built with C\# and a Microsoft SQL database. \ \
 
-The new system will be built using Java with Spring Boot for the API, and React for the frontend, ensuring the ability to create a modern and responsive webappplication.
+The new system will be built using Java with Spring Boot for the API, and React for the frontend, ensuring the ability to create a modern and responsive webapplication.
 
 For persistence, PostgreSQL will be used to efficiently and reliably store user data.
 
