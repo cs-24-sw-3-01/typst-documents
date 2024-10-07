@@ -30,7 +30,7 @@ The absence of these features and the synchronizing problems with SAP have led t
       [Toggleable UI],[The user should be able to switch between different calendar types, e.g. weekly, monthly, yearly],
       [synchronizing with SAP],[The new program should be able to synchronize with SAP and vice versa. The program has to use their preset absence codes.],
     
-  ), caption: ("Features that are missing in the current holiday planner.")
+  ), caption: ("Features that are missing in the current holiday planner at KMD.")
 ) <missing-features-table>
 
 
