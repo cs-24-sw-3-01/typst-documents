@@ -1,5 +1,6 @@
 #import "@preview/showybox:2.0.1": *
 #import "@preview/codly:1.0.0": *
+#import "@preview/dashy-todo:0.0.1": todo
 
 //####################################//
 //############ CODE BLOCK ############//
