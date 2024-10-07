@@ -76,7 +76,8 @@ Furthermore the product will facilitate collaboration among employees of differe
 allowing them to get a better overview of their teams.
 
 The useres will consist of both Danish and Polish users, which arises some cultural differences, including the specific
-holidays of Poland and Denmark, as well as varying approaches to vacation planning, communication styles and workplace expectations.
+holidays of Denmark and Poland, as well as varying approaches to vacation planning, communication styles and workplace expectations.
+
 
 === Technologies
 The users are currently using a mix of the old vacation planner (the one being rewritten in this project), Outlook Calender, and SAP SuccessFactors. 
