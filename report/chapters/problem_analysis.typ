@@ -24,10 +24,10 @@ The absence of these features and the synchronizing problems with SAP have led t
     table.header([* Missing feature *],[* Desciption *]), 
 
       [Holiday balance],[The program has to display the individual employees current available absence days. Prefereably there should be a function to loan absence days from the future which then are regained throughout the year.  ],
-      [Lookup specific team],[The current system is missing a way to quickly lookup a specific team in any department, there should be a function to search for the specific team and its members],
-      [Create teams across departments],[Too fully utilize the teams the company should be able to create teams with members across different departments],
-      [Viewable Holidays],[When looking up other teams, the user should be able to see what days the members of said team are absent],
-      [Toggleable UI],[The user should be able to switch between different calendar types, e.g. weekly, monthly, yearly],
+      [Lookup specific team],[The current system is missing a way to quickly lookup a specific team in any department, there should be a function to search for the specific team and its members.],
+      [Create teams across departments],[Too fully utilize the teams the company should be able to create teams with members across different departments.],
+      [Viewable Holidays],[When looking up other teams, the user should be able to see what days the members of said team are absent.],
+      [Toggleable UI],[The user should be able to switch between different calendar types, e.g. weekly, monthly, yearly.],
       [synchronizing with SAP],[The new program should be able to synchronize with SAP and vice versa. The program has to use their preset absence codes.],
     
   ), caption: ("Features that are missing in the current holiday planner at KMD.")
