@@ -70,7 +70,7 @@ Project managers usually check it multiple times a week, to know they status of 
 
 === Context
 The vacation planner will be accessible from all locations with internet connectivity, including
-at home, the office, or on the go with smartphones.
+at home, the office, or on the go with smartphones. This should happen trough a secure VPN with gives access to te local server.
 
 Furthermore the product will facilitate collaboration among employees of different departments,
 allowing them to get a better overview of their teams.
