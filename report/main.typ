@@ -38,14 +38,32 @@
 #let render = false
 
 #if render == false [
-#include "chapters/styleguide.typ"
-#pagebreak(weak: true)
+  #include "chapters/styleguide.typ"
+  #pagebreak(weak: true)
 
-#include "chapters/components.typ"
-#pagebreak(weak: true)
+  #include "chapters/components.typ"
+  #pagebreak(weak: true)
 ]
 
 #include "chapters/introduction.typ"
 #pagebreak(weak: true)
+
+#include "chapters/problem_analysis.typ"
+#pagebreak(weak: true)
+
+#include "chapters/design.typ"
+#pagebreak(weak: true)
+
+#include "chapters/implementation.typ"
+#pagebreak(weak: true)
+
+#include "chapters/testing.typ"
+#pagebreak(weak: true)
+
+#include "chapters/reflection.typ"
+#pagebreak(weak: true)
+
+
+
 
 #bibliography("sources/sources1.bib")
