@@ -33,16 +33,6 @@ The absence of these features and the synchronizing problems with SAP have led t
 
 
 
-
-
-
-
-
-
-
-
-
-
 == PACT
 
 === People
