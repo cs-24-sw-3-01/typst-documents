@@ -18,3 +18,6 @@ Due to its outdated design and limitations, KMDFerieplan no longer meets KMD’s
 
 == What SAP Is and Its Use at KMD
 #todo[Vi skal have skrevet en sektion omkring rollefordelingen mellem SAP og KMD, a.k.a. en detaljeret beskrivelse af SAP og hvordan det bruges. - Marc (Asger note)]
+
+== Holiday Rules
+#todo(position: right)[Det kan måske virke som almen viden, men jeg synes at der skal være et afsnit om ferieregler generelt, og hvordan KMD tolker dem. - Asger]
