@@ -112,7 +112,7 @@ The system will be developed as a web application, with a client-side interface 
 The main objects within the system are people, dates, types of absence, and teams. #todo[Der skal tilføjes mere, men er ikke sikker på hvad jeg skal skrive... - Marc]
 
 === R - (Responsibility)
-The system is intended to ensure transparency in absence management across the organization. It provides a clear view of team members' absence schedules, helping to prevent scheduling conflicts and enabling better planning for upcoming work periods.
+The system is intended to ensure transparency in absence management across the organization. It provides a clear view of team members' absence schedules, helping to prevent scheduling conflicts and enabling better planning for upcoming work periods. #todo[Beskriv også ansvar i relation til SAP - Asger]
 
 #todo[Der mangler en tail, men synes ikke at det gav mening at skrive på nuværende tidspunkt. - Marc]
 
