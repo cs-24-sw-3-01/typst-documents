@@ -38,11 +38,11 @@
 #let render = false
 
 #if render == false [
-#include "chapters/styleguide.typ"
-#pagebreak(weak: true)
+  #include "chapters/styleguide.typ"
+  #pagebreak(weak: true)
 
-#include "chapters/components.typ"
-#pagebreak(weak: true)
+  #include "chapters/components.typ"
+  #pagebreak(weak: true)
 ]
 
 #include "chapters/introduction.typ"
@@ -51,18 +51,8 @@
 #include "chapters/problem_analysis.typ"
 #pagebreak(weak: true)
 
-
-#include "chapters/problem_domain_analysis.typ"
-#pagebreak(weak: true)
-
-
-#include "chapters/application_domain_analysis.typ"
-#pagebreak(weak: true)
-
-
 #include "chapters/design.typ"
 #pagebreak(weak: true)
-
 
 #include "chapters/implementation.typ"
 #pagebreak(weak: true)
