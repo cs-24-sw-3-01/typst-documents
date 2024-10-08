@@ -14,4 +14,4 @@ The current product, KMDFerieplan, is accessed through a web application, where 
 
 The system is supported by a database and operates on a Windows Server 2008 R2 environment. Its interface resembles a traditional physical calendar, but all entries must be made manually. Additionally, the system is not compatible with mobile devices, which limits its use primarily to older employees who continue to rely on it, while younger employees avoid it because it is outdated.
 
-Due to its outdated design and limitations, KMDFerieplan no longer meets KMD’s modern requirements. The lack of integration with external calendars, such as Microsoft Office Calendar, has added to KMD’s need for a better and more up-to-date solution.
+Due to its outdated design and limitations, KMDFerieplan no longer meets KMD’s modern requirements. The lack of integration with external calendars, such as Microsoft Office Calendar, has added to KMD’s need for a better and more up-to-date solution. #todo[Vi bør tilføje screenshots at det nuværende system og skrive mere om det. - Marc (Asger note)]
