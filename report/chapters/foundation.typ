@@ -1,5 +1,12 @@
 #import "../custom.typ": *
 
+== Interview Process Overview
+The process of gathering information began by contacting KMD to arrange interviews with relevant employees. We were granted access to four individuals across different departments. Before the interviews, our team conducted a brainstorming session to generate as many relevant questions as possible. These questions were then documented and organized into a script.
+
+Next, the team was divided into smaller groups of 2-3 people. Each group was responsible for conducting 1-2 interviews. During these interviews, we diligently recorded the interviewees' responses, ensuring that we captured both their statements and feedback in detail.
+
+After the interview sessions, we regrouped to analyze the collected data. By comparing the responses, we compiled a list of pros and cons related to the current system, along with additional suggestions and feature requests made by the interviewees.
+
 == Feature Requests and Potential Problems 
 This chapther defines both the potential problems that KMD have with their current solution, and the features required in the new one. #todo[add a table of feature requests specifically requested by people that have been interviewed. (niche requests - to further on get a in depth analysis and thereby a greater defined design, with greater begrundelse) -Si]
 The different finds in this chapter was aquired through interviews with three company employees, their lead developer, Mats Lindberg, 
