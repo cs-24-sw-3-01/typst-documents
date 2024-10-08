@@ -41,6 +41,9 @@ The absence of these features and the synchronizing problems with SAP have led t
 
 
 == PACT
+The PACT analysis is a framework used to understand and design systems with a focus on four key areas: People, Activities, Context, and Technology. This approach ensures that the system being developed takes into consideration the users (People), what they need to do (Activities), the environments where the system will be used (Context), and the tools or platforms (Technology) required to make the system work effectively.
+
+By analyzing these four elements, a PACT analysis helps in designing systems that are user-centered, context-aware, and equipped with the right technology, ultimately enhancing the user experience and ensuring the system meets the needs of its intended audience.
 
 === People
 The users comprise all employees of KMD. This includes employees of various roles, such as software developers, financial analysts, human relations, and administrative staff.
