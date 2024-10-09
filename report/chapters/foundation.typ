@@ -1,5 +1,12 @@
 #import "../custom.typ": *
 
+== Interview Process Overview
+The process of gathering information began by contacting KMD to arrange interviews with relevant employees. We were granted access to four individuals across different departments. Before the interviews, our team conducted a brainstorming session to generate as many relevant questions as possible. These questions were then documented and organized into a script.
+
+Next, the team was divided into smaller groups of 2-3 people. Each group was responsible for conducting 1-2 interviews. During these interviews, we diligently recorded the interviewees' responses, ensuring that we captured both their statements and feedback in detail.
+
+After the interview sessions, we regrouped to analyze the collected data. By comparing the responses, we compiled a list of pros and cons related to the current system, along with additional suggestions and feature requests made by the interviewees.
+
 == Feature Requests and Potential Problems 
 This chapther defines both the potential problems that KMD have with their current solution, and the features required in the new one. #todo[add a table of feature requests specifically requested by people that have been interviewed. (niche requests - to further on get a in depth analysis and thereby a greater defined design, with greater begrundelse) -Si]
 The different finds in this chapter was aquired through interviews with three company employees, their lead developer, Mats Lindberg, 
@@ -34,9 +41,14 @@ The absence of these features and the synchronizing problems with SAP have led t
 
 
 == PACT
+The PACT analysis is a framework used to understand and design systems with a focus on four key areas: People, Activities, Context, and Technology. This approach ensures that the system being developed takes into consideration the users (People), what they need to do (Activities), the environments where the system will be used (Context), and the tools or platforms (Technology) required to make the system work effectively.
+
+By analyzing these four elements, a PACT analysis helps in designing systems that are user-centered, context-aware, and equipped with the right technology, ultimately enhancing the user experience and ensuring the system meets the needs of its intended audience.
+
+#todo[PACT kilde er fra DEB bogen -DD]
 
 === People
-The users comprise all employees of KMD. This includes employees of various roles, such as software developers, financial analysts, human relations, and administrative staff.
+The users comprise all employees of KMD. This includes employees of various roles, such as software developers, financial analysts, human relations, administrative staff, and employees of different nationalities.
 
 These users need to be able to intuitively record their vacation days, in a simple system. 
 Furthermore they need to be able to compose teams of employees from different departments, for cross-department projects.
@@ -82,7 +94,7 @@ Furthermore it must also integrate with Microsoft Entra Id, to be able to authen
 
 
 == FACTOR
-The FACTOR model has been applied to the absence calendar system to ensure a comprehensive analysis of the key components and requirements needed for successful implementation. The FACTOR model provides a structured approach to identifying the system’s functionality, the domain in which it operates, the conditions of development, the technologies involved, the objects that are central to the system, and the overall responsibilities. By using this model, we aim to clearly define how our system will function within the organizational context of KMD.
+The FACTOR model has been applied to the absence calendar system to ensure a comprehensive analysis of the key components and requirements needed for successful implementation. The FACTOR model provides a structured approach to identifying the system’s functionality, the domain in which it operates, the conditions of development, the technologies involved, the objects that are central to the system, and the overall responsibilities. By using this model, we aim to clearly define how our system will function within the organizational context of KMD. #todo[tilføj SU-bog som kilde. - Marc]
 
 === F - (Functionality)
 The system will be used by employees to register absence and view absence for themselves and their teams. In addition to this basic functionality, employees must be able to specify the type of absence, such as vacation, sick leave, or other reasons, as well as indicate the duration of the absence. The system will also allow employees to create, modify, and delete teams, enabling efficient organization of team members according to department or project requirements. Team members can view each other's absence schedules to help avoid overlapping leave periods and ensure optimal staffing levels.
@@ -102,7 +114,7 @@ The system will be developed as a web application, with a client-side interface 
 The main objects within the system are people, dates, types of absence, and teams. #todo[Der skal tilføjes mere, men er ikke sikker på hvad jeg skal skrive... - Marc]
 
 === R - (Responsibility)
-The system is intended to ensure transparency in absence management across the organization. It provides a clear view of team members' absence schedules, helping to prevent scheduling conflicts and enabling better planning for upcoming work periods.
+The system is intended to ensure transparency in absence management across the organization. It provides a clear view of team members' absence schedules, helping to prevent scheduling conflicts and enabling better planning for upcoming work periods. #todo[Beskriv også ansvar i relation til SAP - Asger]
 
 #todo[Der mangler en tail, men synes ikke at det gav mening at skrive på nuværende tidspunkt. - Marc]
 
