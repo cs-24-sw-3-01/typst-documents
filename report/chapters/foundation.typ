@@ -116,8 +116,16 @@ The main objects within the system are people, dates, types of absence, and team
 === R - (Responsibility)
 The system is intended to ensure transparency in absence management across the organization. It provides a clear view of team members' absence schedules, helping to prevent scheduling conflicts and enabling better planning for upcoming work periods. #todo[Beskriv også ansvar i relation til SAP - Asger]
 
-#todo[Der mangler en tail, men synes ikke at det gav mening at skrive på nuværende tidspunkt. - Marc]
+== System Definition
 
-== System Definitions
+The KMD Vacation Planner is a software solution that allows KMD employees to efficiently 
+manage and track absences and vacations. It imports absence and vacation data from SAP SuccessFactors 
+and displays it in the vacation planner. The system also enables users to manually register absences 
+or vacations without requiring management approval. Teams can be created across different departments, 
+facilitating cross-department collaboration. The system is accessible through authentication via 
+Microsoft Entra ID and is built using Java Spring Boot for the backend and React/TypeScript 
+for the frontend, with PostgreSQL used for data persistence. The system also accommodates 
+cultural differences, particularly between Danish and Polish employees, by supporting 
+Polish and Danish holidays.
 
 == Requirements
