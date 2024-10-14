@@ -115,9 +115,8 @@ The system will be developed as a web application, with a client-side interface 
 The objects within the system are Teams, Employees, Absence periods and Team members. 
 
 === R - (Responsibility)
-The system is intended to ensure transparency in absence management across the organization. It provides a clear view of team members' absence schedules, helping to prevent scheduling conflicts and enabling better planning for upcoming work periods.
+The system is intended to ensure transparency in absence management across the organization. It provides a clear view of team members' absence schedules, helping to prevent scheduling conflicts and enabling better planning for upcoming work periods. The system has to be able to integrate with KMD's current SAP system. communcation between SAP and the system should go both ways, so the SAP data should be able to be imported to the system and vice versa.
 
- #todo[Beskriv også ansvar i relation til SAP - Asger, pls help -TB]
 
 
 
