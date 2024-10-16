@@ -37,7 +37,7 @@ Events model the behavior and workflows of the system, enabling the capture of d
 === Relating Classes and Events
 Classes and events are closely related in the system. Each class is involved in certain events that define how the class objects interact with each other. For example, the Absence class might be involved in events like "Absence Request" and "Absence Approval"#todo[I know! Der er ikke noget med at approve eller request absence, det er bare for at komme med et eksempel. Har I en bredre ide, så fyr! Men synes personlig selv, at det bør være okay at bruge, da vi først senere i teksten kommer til vores endelige resultat! - Marc]. By defining these relationships, we can better understand the flow of actions within the system and ensure that it functions smoothly and efficiently.
 
-In summary, classes represent the core building blocks of the system, modeling the static structure, while events represent the dynamic behavior, capturing the flow of actions within the system. Together, they facilitate the design of a software solution that meets the needs of KMD employees for managing absences across departments.
+In summary, classes represent the core building blocks of the system, modeling the static structure, while events represent the dynamic behavior, capturing the flow of actions within the system. Together, they facilitate the design of a software solution that meets the needs of KMD employees for managing absences across teams.
 
 == Identifying and Evaluating Class and Event Candidates
 
