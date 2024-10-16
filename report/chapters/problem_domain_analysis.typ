@@ -16,10 +16,10 @@ In object-oriented software development, classes and events are two fundamental 
 === Classes
 A class is a blueprint for creating objects in a software system. Each class represents an abstraction of a concept or entity in the real world, encapsulating both data (attributes) and behaviors (methods) associated with that concept. Classes allow us to organize and manage the complexity of the system by categorizing related elements and their functionalities.
 
-For instance, in the KMD Absence Planner, classes like `Employee`, `Team`, and `Absence` represent key entities within the system:
+For instance, in the KMD Absence Planner, classes like _Employee_, _Team_, and _Absence_ represent key entities within the system:
 
-- *Employee:* Represents a user of the system with attributes such as `name`, `uid`, `role`, and a list of absences.
-- *Team:* Represents a group of employees working together, with attributes such as `teamName`, `teamAdmin` and a list of team-members.
+- *Employee:* Represents a user of the system with attributes such as _name_, _uid_, _role_, and a list of absences.
+- *Team:* Represents a group of employees collaborating together, with attributes such as _teamName_, _teamAdmin_ and a list of team-members.
 - *Absence:* Represents a specific period where an employee is unavailable, such as a holiday or sick leave.
 Defining classes models how various entities interact within the system, enabling the creation of objects (instances of classes) that represent real-life concepts, such as an individual employee or a specific absence event.
 
