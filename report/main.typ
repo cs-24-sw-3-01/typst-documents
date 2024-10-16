@@ -63,8 +63,6 @@
 #include "chapters/reflection.typ"
 #pagebreak(weak: true)
 
-#include "chapters/event_table.typ"
-#pagebreak(weak: true)
 
 
 
