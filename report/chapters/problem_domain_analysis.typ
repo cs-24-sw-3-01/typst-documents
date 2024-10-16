@@ -232,7 +232,7 @@ After several iterations and refinements, the following event table was develope
 // Calendar: Yes (The holiday is added to the calendar).
 // Holiday: Yes (A new holiday is created).
 
-==== Classes:
+*Classes:*
 
 - *Employee:* Represents an individual user of the system. Each employee has personal details, a department, and may belong to one or more teams. They can log their own absences and view team calendars.
 
@@ -246,7 +246,7 @@ After several iterations and refinements, the following event table was develope
 
 - *Holiday:* Represents company-wide or public holidays that affect multiple employees. Holidays would appear on the calendar.
 
-==== Events:
+*Events:*
 
 - *Absence Entry:* Triggered when an employee logs a new absence into the system. This event records the absence details (type, dates, reason) and updates the system's data.
 
