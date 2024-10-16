@@ -59,7 +59,7 @@ To derive event candidates, the dynamic interactions between the classes were co
 By identifying these events, a clearer understanding of how the system would operate dynamically began to emerge. Each event was mapped to the relevant classes, ensuring that the system could respond appropriately to user actions and data changes.
 
 === Systematically Evaluating Classes and Events
-After identifying a broad set of class and event candidates, the final step was to systematically evaluate the relationships between them. This involved critically analyzing the roles of each class and the events they participate in. An event table was used for this purpose, mapping classes to the events they are involved in.
+#todo[evt. adde en tidligere version? da vi snakker meget om hvordan vi generere idéer og derefter refiner dem, men ikke viser vores arbejde. - Sille]After identifying a broad set of class and event candidates, the final step was to systematically evaluate the relationships between them. This involved critically analyzing the roles of each class and the events they participate in. An event table was used for this purpose, mapping classes to the events they are involved in.
 
 The event table allowed for an evaluation of the cohesion and coupling within the system. For example:
 
@@ -116,7 +116,7 @@ After several iterations and refinements, the following event table was develope
   caption: [Event table]
 ) <table:competitors>
 ]
-
+#todo[adde figurtekst der forklarer hvordan figuren skal læses (hvordan relaterer x og y aksen til hinanden?). - Sille]
 // ******************************************************************************************************** // 
 // ******************************************************************************************************** //
 // *** HERE IS A DETAILED EXPLANATION OF THE REASONS BEHIND THE SELECTION OF THE VARIOUS FIELDS – MARC! *** //
@@ -233,7 +233,7 @@ After several iterations and refinements, the following event table was develope
 // Holiday: Yes (A new holiday is created).
 
 *Classes:*
-
+#todo[evt. en mere uddybet afslutning. Godt med liste, men muligvis noget prosa der "samler op". - Sille]
 - *Employee:* Represents an individual user of the system. Each employee has personal details, a department, and may belong to one or more teams. They can log their own absences and view team calendars.
 
 - *Absence:* Represents a period where an employee is unavailable due to reasons like vacation, sickness, or personal leave. Absences have a start and end date and might include additional metadata like absence type and reason.
