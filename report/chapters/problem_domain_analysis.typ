@@ -212,7 +212,7 @@ After several iterations and refinements, the following event table was develope
 
 - *Absence:* Represents a period where an employee is unavailable due to reasons like vacation, sickness, or personal leave. Absences have a start and end date and might include additional metadata like absence type and reason.
 
-- *Team:* A group of employees that work together across different departments. Teams may be created and managed in the system to facilitate better absence planning and calendar overviews.
+- *Team:* A group of employees that work together across different departments. 
 
 - *Department:* Represents the various departments within the company. Employees and teams are associated with departments, which helps organize the calendar and team structure.
 
@@ -226,7 +226,7 @@ After several iterations and refinements, the following event table was develope
 
 - *Absence Update:* Occurs when an employee modifies an existing absence, such as extending sick leave or correcting a mistake in the entry.
 
-- *Absence Cancellation:* Happens when an employee decides to cancel an already logged absence. The system removes the absence from the calendar and updates related notifications.
+- *Absence Cancellation:* Happens when an employee decides to cancel an already logged absence. The system removes the absence from the calendar.
 
 - *Team Creation:* Happens when a new team is created in the system. The system links the appropriate employees and departments to this team, making it visible in relevant calendars.
 
@@ -234,7 +234,7 @@ After several iterations and refinements, the following event table was develope
 
 - *Team Deletion:* Triggered when a team is removed from the system. The system would need to disassociate employees from the deleted team.
 
-- *Employee Creation:* Triggered when a new employee is added to the system. This event would handle the setup of the employee’s profile, their department, and initial team assignments.
+- *Employee Creation:* Triggered when a new employee is added to the system. This event would handle the setup of the employee’s profile, their department.
 
 - *Employee Profile Update:* Triggered when an employee updates their profile (e.g., changing their name, role, or department). This event keeps employee data current and accurate.
 
