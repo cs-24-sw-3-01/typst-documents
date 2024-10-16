@@ -23,6 +23,13 @@ To find out why KMD needs a new system for managing their holiday calender it wa
 
 A picture of the current situation at KMD 
 
+/*
+Inklusiv fremgangsmåde
+Reel picture
+Det reelle problem
+“Ved nu at vi skal finde en løsning der kan “løse” det reelle problem”
+*/
+
 == Feature Requests and Potential Problems 
 This chapther defines both the potential problems that KMD have with their current solution, and the features required in the new one. 
 
