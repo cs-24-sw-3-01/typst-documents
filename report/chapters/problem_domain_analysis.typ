@@ -1,4 +1,5 @@
 #import "../custom.typ": *
+#import "@preview/tablex:0.0.8": tablex, rowspanx, colspanx
 #import table: cell, header
 
 = Problem Domain Analysis
@@ -69,27 +70,52 @@ This systematic evaluation helped refine the class and event candidates, ensurin
 === Final Event Table
 After several iterations and refinements, the following event table was developed, capturing the core interactions within the KMD Absence Planner:
 
-#table(
-  columns: 7,
-  align: center,
-  header(
-    [],
-    table.cell(colspan: 6)[*Classes*]
+#[
+#set text(hyphenate: false)
+#figure(kind: table, tablex(
+    columns: 7,
+    inset: 5pt,
+    align: horizon,
+    stroke: 0.4pt,
+    map-cells: cell => {
+      
+      cell.fill = luma(280)
+      if cell.y < 1 {
+        cell.content = strong(cell.content)
+        cell.fill = (cell.fill).darken(6%)
+      } 
+      else if cell.content.has("text") {
+        if cell.content.text == "y" {
+          cell.content = [x]
+          cell.fill = green.lighten(75%)
+          cell.align = center + horizon
+        } else if cell.content.text == "n" {
+          cell.content = [ ]
+          cell.fill = red.lighten(75%)
+          cell.align = center + horizon
+        }
+      }
+      cell.fill = (cell.fill).darken(if calc.odd(cell.y) {0%} else {5%})
+      cell
+    },
+    
+  [*Events*], colspanx(6)[*Classes*],
+  [], [Employee], [Absence], [Team], [Department], [Calendar], [Holiday],
+  [Absence Entry], [y], [y], [n], [n], [y], [n],
+  [Absence Update], [y], [y], [n], [n], [y], [n],
+  [Absence Cancellation], [y], [y], [n], [n], [y], [n],
+  [Team Creation], [y], [n], [y], [y], [y], [n],
+  [Team Update], [y], [n], [y], [y], [y], [n],
+  [Team Deletion], [y], [n], [y], [y], [y], [n],
+  [Employee Creation], [y], [n], [y], [y], [n], [n],
+  [Employee Profile Update], [y], [n], [n], [y], [n], [n],
+  [Employee Deletion], [y], [y], [y], [y], [y], [n],
+  [Calendar View Update], [y], [y], [y], [y], [y], [y],
+  [Holiday Addition], [n], [n], [n], [n], [y], [y],
   ),
-  [*Events*], [Employee], [Absence], [Team], [Department], [Calendar], [Holiday],
-  
-  [Absence Entry], [x], [x], [], [], [x], [],
-  [Absence Update], [x], [x], [], [], [x], [],
-  [Absence Cancellation], [x], [x], [], [], [x], [],
-  [Team Creation], [x], [], [x], [x], [x], [],
-  [Team Update], [x], [], [x], [x], [x], [],
-  [Team Deletion], [x], [], [x], [x], [x], [],
-  [Employee Creation], [x], [], [x], [x], [], [],
-  [Employee Profile Update], [x], [], [], [x], [], [],
-  [Employee Deletion], [x], [x], [x], [x], [x], [],
-  [Calendar View Update], [x], [x], [x], [x], [x], [x],
-  [Holiday Addition], [], [], [], [], [x], [x],
-)
+  caption: [Event table]
+) <table:competitors>
+]
 
 // ******************************************************************************************************** // 
 // ******************************************************************************************************** //
