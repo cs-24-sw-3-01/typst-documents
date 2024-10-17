@@ -270,4 +270,20 @@ After several iterations and refinements, the following event table was develope
 
 - *Holiday Addition:* Happens when a new company-wide or public holiday is added to the system. The system updates all relevant calendars to reflect the holiday.
 
-== Behaviour Stucture
+#pagebreak()
+
+== Stucture and Behaviour 
+
+=== Class Diagrams
+
+Class diagrams are a fundamental part of object-oriented modeling, used to visually represent the static structure of a system. These diagrams describe the system by illustrating its classes, their attributes, methods, and the relationships between the classes. Each class in the diagram serves as a blueprint for objects, encapsulating data (attributes) and behavior (methods).
+
+The primary purpose of a class diagram is to describe the structural relationships between the objects and classes in a problem domain. These diagrams help developers understand the system’s architecture by providing a clear overview of how different entities are organized and connected.
+
+Class diagrams are composed of several key components:
+
+- *Classes:* Represent entities or concepts within the system, such as an Employee, Team, or Department. Each class typically includes attributes (data fields) and operations (methods).
+- *Relationships:* The connections between classes, such as associations, generalizations (inheritance), or aggregations. These relationships show how the classes interact or depend on each other.
+- *Multiplicity:* Indicates how many instances of one class relate to instances of another class (e.g., one-to-many or many-to-many relationships).
+
+Class diagrams serve as a critical tool in both the analysis and design phases of system development. By organizing the system into well-defined classes and relationships, class diagrams help clarify the structure, making it easier to identify responsibilities and dependencies between entities. Additionally, they provide a visual roadmap for building and maintaining a system, ensuring consistency and coherence in the design.
