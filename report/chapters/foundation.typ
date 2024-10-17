@@ -5,9 +5,9 @@ In order to collect data interviews were conducted. The process of gathering inf
 
 The interviewed employees include:
 - Lead developer Mats Lindberg on Oktober 1rst 12:30
-- Project portfolio manager Linda JJKHKHJJG on October 1rst 13:00
-- Manager of modern workplace Dion Andersen on Okctober 1rst 13:00
-- Caroline Ramsdal
+- Project portfolio manager Linda Nielsen on October 1rst 13:00
+- Manager of modern workplace Dion Andersen on October 1rst 13:00
+- Caroline Ramsdal (STILLING og TIME?) on October 14th
 
 Previous to the interviews a list of questions was developed to be used during semistructured interviews to ensure comparable resulting data. #todo[kilde bog]
 During the interviews topics included what calendar solutions the employee is currently using, the solutions positive and negative features as well as what the employee would like
@@ -34,14 +34,11 @@ Det reelle problem
 This chapther defines both the potential problems that KMD have with their current solution, and the features required in the new one. 
 
 When reviewing the notes taken during the previously mentioned interviews, in section #todo[reference til section], one can derive that need for a new system for managing their vacation calendar primarily stems from the system not being updated since its development in 2014.
-It was discovered that the calender that must be replaced, due to it being 10 years old, no longer synchronizes with the companys' current SAP system, thereby making the system purely manual when inserting future vacations. #todo[er det forklaret hvad sap er?]
+It was discovered that the calender that must be replaced, due to it being 10 years old, no longer synchronizes with the companys' current SAP system, thereby making the system purely manual when inserting future vacations.
 Furthermore, the current calendar system seem to lack crucial additional features to newer employees at the company.
 The problem of missing features as well as the synchronizing problem have instigated employees to use other calendar solutions such as the Outlook calendar and boards as of figure #todo[referendce til non-existing fig] in section #todo[ref rich pic].
 However, these alternative solutions seem to contain unnecessary additional features, such as accessing each employees calendar including both planned vacation and meetings, as well as missing favorable features included in the initial solution to be replaced, such as customizable teams. 
 
-
-// outlook kalenderen er også koplet op til SAP right? men der er FOR MANGE features = uoverskueligt
-// noget mere med at folk bruger andre solutions og hvorfor/hvad er godt/dårligt
 When reviewing the notes from the interviews a table of feature requests can be developed.
 
 #figure(
@@ -58,9 +55,26 @@ When reviewing the notes from the interviews a table of feature requests can be 
       [Integration of vacation balance], [Vacation balance status integrated in the calendar, enabling users to monitor personal saved and lent vacation days.], [M,L,D,C], 
       [Manual registration of absence], [The option to overwrite registered vacation/absence, enabling users to register non-formal#todo[evt. adde uddybende note] absence or correct misregistered vacation.], [L,D], 
       [Vacation record], [A record of a teams previously planned vacations, spanning from three months to one and a half years back, to act as templates for future vacation periods.], [D], 
-      []
-  ), caption: ("Feature requests for the new system to be developed. With abbreviations: D; Dion Andersen, L; Linda  , M; Mats  and C; Caroline,  referring to each employees respective interview records.")
+      [Simple design], [Simple design predominantly resembling the original KMD Ferieplanlægger.],[L, M, D, C],
+      [Different types of views], [Horizontal and vertical configuration of calendar view.], [D], 
+      [Language: English], [ ], [D], 
+      [Nationality-specific holidays], [Integration of Danish and Polish vacation days, catering to the two primary nationalities employed at KMD], [M, D, C],
+      [Distinction between types of days], [Pattern or color coordination of different types of days and vacations.], [L], 
+      [Employee distinction], [Distinction between employees with color, intials or picture.], [D], 
+      [Panel with teams], [A fixed panel containing the teams that the user is a part of], [D], 
+      [Tutorials or guides for features], [Several guides or tutorials for different features in the calendar], [C], 
+      [Team customization], [Possibility to create a team in order to access an overview of a teams planned vacation], [M], 
+      [Sorting of teams], [When accessing a list of teams, the teams that the current user is a part of will appear at the top of the list.], [L], 
+      [Searchable features], [The option to search for either specific employees or teams.], [L, M], 
+      [Team distinction in accesibility], [The option to mark different absence periods for different teams, in case the user works in two teams at once.], [C], 
+      [Changing team admin], [The option to change the teams' administrator, either manually or automatically.], [L], 
+      [Admin acceptance], [Vacations having to be accepted in the planner by an administrator.], [C], 
+      [Communication from planner to SAP], [Relevant actions being transferred from the absence planner to SAP], [C], 
+      [Notes], [The option to add notes to a vacation.], [D, L, C] 
+  ), caption: ("Feature requests for the new system to be developed. With abbreviations: D; Dion Andersen, L; Linda  , M; Mats Lindberg and C; Caroline Ramsdal referring to each employees respective interview records.")
 ) <feature-requests-table>
+
+// OBS!! der skal tjekkes op på om de requestede features er tildelt til de rigtige mennesker
 
 These feature requests can be summarized into a list of key concepts to take into account when developing the new solution.
 - The existing features of the current calendar is generally liked.
@@ -84,18 +98,21 @@ However, the system must be an advanced version of the current solution, with a 
       [Create/edit teams across departments],[Too fully utilize the teams the company should be able to create teams with members across different departments. Additionally a team should be editable, to prevent the occurence of dead teams.],
       [Viewable Holidays],[When looking up other teams, the user should be able to see what days the members of said team are absent.],
       [Intuitive design],[The design should create a comprehensible overview for the user when viewing absence periods for both individuals and teams. This may include color coordination or additional notes.],
-      [Toggleable UI],[The user should be able to switch between different calendar types, e.g. weekly, monthly, yearly. Furthermore, the toggleability should also include options for calendar orientations, e.g. horisontal and vertical.],
+      [Toggleable UI],[The user should be able to switch between different calendar types, e.g. weekly, monthly, yearly. Furthermore, the toggleability should also include options for calendar orientations, e.g. horizontal and vertical.],
       [synchronizing with SAP],[The new program should be able to synchronize with SAP and vice versa. The program has to use their preset absence codes.],
-      [Tidligere ferie],[], 
-      [Overwriting SAP/manual registration],[], 
-      [Webapplication/mobile access],[],
+      [Accessing previous vacation periods],[A team should be able to access previously planned periods of vacation in order to use them as a reference for planning future periods.], 
+      [Overwriting SAP/manual registration],[In case of misregistered vacation in SAP or absence periods that is not necessary to register in SAP, the users should be able to add absence manually as well as overwriting vacation imported from SAP.], 
+      [Webapplication/mobile access],[The calendar should be accesible remotely, this includes developing it as a webapplication as well as ensuring interface design compatible with both a computer and a mobile device.],
     
   ), caption: ("Features that are missing in the current holiday planner at KMD.")
 ) <missing-features-table>
 
 // HUSK!!! forklar dead teams tak!!!
 
-AFSLUTNING
+AFSLUTNING. TF får vi ud af det her?
+- vi ved nu hvad vores fokuspunkter bør være
+- vi ved hvorfor de ikke gider bruge den gamle løsning /*dobbelttjek om hvad missing features bør indeholde*/
+- vi ved specifikt hvilke ting der er meget vigtige at have med i dne nye løsning
 
 
 == PACT
