@@ -4,9 +4,9 @@
 In order to collect data interviews were conducted. The process of gathering information was initialized by contacting KMD to arrange interviews with relevant employees. 
 
 The interviewed employees include:
-- Lead developer Mats Lindberg on Oktober 1rst 12:30
-- Project portfolio manager Linda Nielsen on October 1rst 13:00
-- Manager of modern workplace Dion Andersen on October 1rst 13:00
+- Lead developer Mats Lindberg on October 1st 12:30
+- Project portfolio manager Linda Nielsen on October 1st 13:00
+- Manager of modern workplace Dion Andersen on October 1st 13:00
 - Caroline Ramsdal (STILLING og TIME?) on October 14th
 
 Previous to the interviews a list of questions was developed to be used during semistructured interviews to ensure comparable resulting data. #todo[kilde bog]
@@ -83,7 +83,7 @@ These feature requests can be summarized into a list of key concepts to take int
 - Synchronization with the SAP system will instigate a greater use of the calendar amongst the employees.
 - The accessibility of the solution, ensuring that the calendar can be used remotely, is crucial to advance the usability of the solution.
 
-As of the summarizing key consepts and the feature requests one can derive that the new solution must be of similar user interface and functionality as the current solution,
+As of the summarizing key concepts and the feature requests one can derive that the new solution must be of similar user interface and functionality as the current solution,
 to cater to the employees that still use the old solution from 2014. 
 However, the system must be an advanced version of the current solution, with a greater amount of features to ensure motivation for the employees that has previously migrated to other solutions to use the new solution. 
 
@@ -95,10 +95,10 @@ However, the system must be an advanced version of the current solution, with a 
 
       [Holiday balance],[The program has to display the individual employees current available absence days. Prefereably there should be a function to loan absence days from the future which then are regained throughout the year.  ],
       [Lookup specific team/employee],[The current system is missing a way to quickly lookup a specific team in any department, there should be a function to search for the specific team and its members.],
-      [Create/edit teams across departments],[Too fully utilize the teams the company should be able to create teams with members across different departments. Additionally a team should be editable, to prevent the occurence of dead teams.],
+      [Create/edit teams across departments],[Too fully utilize the teams the company should be able to create teams with members across different departments. Additionally, a team should be editable, to prevent the occurence of dead teams.],
       [Viewable Holidays],[When looking up other teams, the user should be able to see what days the members of said team are absent.],
       [Intuitive design],[The design should create a comprehensible overview for the user when viewing absence periods for both individuals and teams. This may include color coordination or additional notes.],
-      [Toggleable UI],[The user should be able to switch between different calendar types, e.g. weekly, monthly, yearly. Furthermore, the toggleability should also include options for calendar orientations, e.g. horizontal and vertical.],
+      [Toggleable UI],[The user should be able to switch between different calendar types, e.g. weekly, monthly, yearly. Furthermore, it should be possible to toggle between calendar orientations, such as horizontal and vertical.],
       [synchronizing with SAP],[The new program should be able to synchronize with SAP and vice versa. The program has to use their preset absence codes.],
       [Accessing previous vacation periods],[A team should be able to access previously planned periods of vacation in order to use them as a reference for planning future periods.], 
       [Overwriting SAP/manual registration],[In case of misregistered vacation in SAP or absence periods that is not necessary to register in SAP, the users should be able to add absence manually as well as overwriting vacation imported from SAP.], 
@@ -150,7 +150,7 @@ at home, the office, or on the go with smartphones. This should happen trough a 
 Furthermore the product will facilitate collaboration among employees of different departments,
 allowing them to get a better overview of their teams.
 
-The useres will consist of both Danish and Polish users, which arises some cultural differences, including the specific
+The users will consist of both Danish and Polish users, which arises some cultural differences, including the specific
 holidays of Denmark and Poland, as well as varying approaches to vacation planning, communication styles and workplace expectations.
 
 
