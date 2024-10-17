@@ -113,7 +113,7 @@ After several iterations and refinements, the following event table was develope
   [Calendar View Update], [y], [y], [y], [y], [y], [y],
   [Holiday Addition], [n], [n], [n], [n], [y], [y],
   ),
-  caption: [Event table]
+  caption: [_The table shows the relationship between events (rows) and classes (columns) in the KMD Absence Planner. Each row represents a specific event in the system, while each column corresponds to a class. An "x" in a cell indicates that the corresponding class is involved in the specified event._]
 ) <table:competitors>
 ]
 #todo[adde figurtekst der forklarer hvordan figuren skal læses (hvordan relaterer x og y aksen til hinanden?). - Sille]
