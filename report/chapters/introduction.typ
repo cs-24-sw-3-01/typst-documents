@@ -17,7 +17,7 @@ Team organization is a core aspect of the vacation planner. Each employee within
 #todo[Vi skal have skrevet en sektion omkring rollefordelingen mellem SAP og KMD, a.k.a. en detaljeret beskrivelse af SAP og hvordan det bruges. - Marc (Asger note)]
 
 == KMD Pre-Meeting Insights: Current System Challenges
-During the initial meeting with KMD representatives Dion and Mats, valuable context for understanding KMDFerieplan’s limitations for solution planning was provided. It was noted that KMDFerieplan was developed over a decade ago, and that while it initially included functionalities such as automatic synchronization with the Microsoft Office Calendar, this integration was lost after KMD upgraded to SAP S/4HANA. Dion also emphasized the system’s challenges, describing its design and interface as outdated and not user-friendly. 
+Valuable context for understanding KMDFerieplan’s limitations for solution planning was provided during the initial meeting with KMD representatives Dion and Mats. It was noted that KMDFerieplan was developed over a decade ago, and that while it initially included functionalities such as automatic synchronization with the earlier SAP version, this integration was lost after KMD upgraded to SAP S/4HANA. Dion also emphasized the system’s challenges, describing its design and interface as outdated and not user-friendly. 
 They emphasized the need for a solution that tackles these issues by providing a more intuitive user experience and that it is compatible with KMD’s newer SAP environment. 
 
 == Holiday Rules
