@@ -85,8 +85,12 @@ After several iterations and refinements, the following event table was develope
         cell.fill = (cell.fill).darken(6%)
       } 
       else if cell.content.has("text") {
-        if cell.content.text == "y" {
-          cell.content = [x]
+        if cell.content.text == "p" {
+          cell.content = [+]
+          cell.fill = green.lighten(75%)
+          cell.align = center + horizon
+        } else if cell.content.text == "s" {
+          cell.content = [\u{2217}]
           cell.fill = green.lighten(75%)
           cell.align = center + horizon
         } else if cell.content.text == "n" {
@@ -104,13 +108,13 @@ After several iterations and refinements, the following event table was develope
   [Absence Entry], [y], [y], [n], [n], [y], [n],
   [Absence Update], [y], [y], [n], [n], [y], [n],
   [Absence Cancellation], [y], [y], [n], [n], [y], [n],
-  [Team Creation], [y], [n], [y], [y], [y], [n],
+  [Team Creation], [y], [n], [p], [y], [y], [n],
   [Team Update], [y], [n], [y], [y], [y], [n],
-  [Team Deletion], [y], [n], [y], [y], [y], [n],
+  [Team Deletion], [y], [n], [p], [y], [y], [n],
   [Employee Creation], [y], [n], [y], [y], [n], [n],
   [Employee Profile Update], [y], [n], [n], [y], [n], [n],
   [Employee Deletion], [y], [y], [y], [y], [y], [n],
-  [Calendar View Update], [y], [y], [y], [y], [y], [y],
+  [Calendar View Update], [y], [y], [s], [y], [y], [y],
   [Holiday Addition], [n], [n], [n], [n], [y], [y],
   ),
   caption: [Event table]
