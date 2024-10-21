@@ -1,5 +1,5 @@
 00:00:00,799 --> 00:00:03,060
-Elma & Sille: Skal man sige noget før mand? Nej.
+Elma & Sille: Skal man sige noget før man? Nej.
 
 00:00:03,280 --> 00:00:04,660
 Dion: Jeg har sagt ja til optagelse.
@@ -14,7 +14,7 @@ Og hvad du godt kunne lide ved den, og hvad du ikke kunne lide ved den, så vi k
 Ja, for det er det første og spørgsmål.
 
 00:00:23,935 --> 00:00:26,675
-Dion: Skal vi starte med mine erfaringer eller bare være bruger?
+Dion: Skal vi starte med mine erfaringer eller bare hvad jeg bruger?
 
 00:00:27,455 --> 00:00:29,470
 Elma & Sille: Nok mest bare først, hvad du bruger.
@@ -23,7 +23,7 @@ Elma & Sille: Nok mest bare først, hvad du bruger.
 Måske en lille kort demo, hvis det kan lade sig gøre.
 
 00:00:32,110 --> 00:00:33,410
-Dion: Ja, det kan sagtens være.
+Dion: Ja, det kan sagtens gøre.
 
 00:00:33,710 --> 00:00:35,810
 Jeg tror sågar, vi skal få det op på storskærm.
@@ -53,7 +53,7 @@ Så jeg har alle dem fra mit eget team.
 Det er ligesom dem jeg bruger til hverdag.
 
 00:01:23,775 --> 00:01:28,960
-Så kan jeg klikke dem af, Så får jeg sådan et rigtig dårligt åbning her, hvor den meget mos slår kalenderen sammen.
+Så kan jeg klikke dem af, Så får jeg sådan et rigtig dårligt overblik her, hvor den meget slår kalenderen sammen.
 
 00:01:29,820 --> 00:01:32,719
 Men det gør egentlig lidt, hvad jeg skal.
@@ -74,13 +74,13 @@ Jeg får stadig ikke det der grand overblik.
 Elma & Sille: Og det er fordi, der er så mange andre events I, som ikke er ferie udelukkende eller er væk udelukkende.
 
 00:01:57,900 --> 00:02:01,640
-Men derfor eller hvorfor føles det som om, at du ikke får år?
+Men derfor eller hvorfor føles det som om, at du ikke får?
 
 00:02:01,860 --> 00:02:07,425
 Dion: Herinde der bruger jeg også til at finde ud af, om de skal noget på det tidspunkt dag.
 
 00:02:07,725 --> 00:02:14,465
-Så for mig er det her, at det her er en catch all-all, på en eller anden måde. Og overblikket.
+Så for mig er det her, at det her er en catch all, på en eller anden måde. Og overblikket.
 
 00:02:16,045 --> 00:02:19,665
 Vi har en Scrummaster, der kompenserer for alle mine egne mangler.
@@ -103,8 +103,6 @@ Men du kan se selvfølgelig, at Kjeld han har den farve, som er. Er.
 00:02:47,680 --> 00:02:49,540
 Men den virkede så I sommers.
 
-00:02:49,680 --> 00:02:51,459
-Elma & Sille: Okay, det er I hvert fald for et par år.
 
 00:02:51,760 --> 00:02:58,400
 Dion: Men det brugte vi, hvor man så kan se, at Mads har ferie der, Christian har ferie der og hjertet ferie der.
@@ -128,13 +126,13 @@ Dion: Det er også et custom team, ligesom det ville være et ferieplan.
 Der kan man også sætte alle dem på, man vil, der er inden for lige præcis det her projekt I boards. Kender I det Azureboards?
 
 00:03:18,790 --> 00:03:19,690
-Elma & Sille: Moder Workpris?
+Elma & Sille: Modern workplace?
 
 00:03:19,790 --> 00:03:29,915
 Dion: Det skal I seriøst tage jer og bruge det til jeres projekter, fordi I kommer til at bruge det relevant erhvervserfaring. Hvordan skal vi?
 
 00:03:29,915 --> 00:03:33,435
-Det er et agil blandingværktøj det her I bund og grund I kalenderen.
+Det er et agil planningsværktøj det her I bund og grund I kalenderen.
 
 00:03:33,435 --> 00:03:37,595
 Elma & Sille: Det kunne I faktisk godt have bedt at bruge I stedet for Trello.
@@ -152,10 +150,10 @@ Det der er begrænsningen her, det er, at det ligner lort for det første.
 Den anden ting det er at brugere herinde, det er typisk folk der er mere ovre I den tekniske genre.
 
 00:04:01,694 --> 00:04:06,655
-Så du vil aldrig få nogen fra vores, nu sidder jeg godt nok lige finan, men fra de normale dele
+Så du vil aldrig få nogen fra vores, nu sidder jeg godt nok lige finans, men fra de normale dele
 
 00:04:06,655 --> 00:04:11,459
-af finan, der vil du aldrig få folk til at gå herind Det vil ikke give mening simpelthen, at de går herind.
+af finans, der vil du aldrig få folk til at gå herind Det vil ikke give mening simpelthen, at de går herind.
 
 00:04:12,080 --> 00:04:13,860
 Fordi de sidder ikke og laver allergi planlægning.
@@ -163,11 +161,9 @@ Fordi de sidder ikke og laver allergi planlægning.
 00:04:13,920 --> 00:04:16,400
 De sidder og copy-paste I Excel ark eller hvad de
 
-00:04:16,400 --> 00:04:17,060
-Elma & Sille: nu får.
 
 00:04:18,880 --> 00:04:22,340
-Dion: Så de vil jo ikke komme herind naturligt for at lave noget som helst.
+Så de vil jo ikke komme herind naturligt for at lave noget som helst.
 
 00:04:22,800 --> 00:04:27,905
 Derudover så koster det her femogtredive kroner pr. Bruger pr. Måned.
@@ -182,7 +178,7 @@ Men det er bare Når det ikke er naturligt at komme ind, så betaler man ikke fo
 Og så når det specielt sådan her ud, så gider man ikke betale det.
 
 00:04:38,685 --> 00:04:42,169
-Elma & Sille: Bruger den til noget andet udover de kalender?
+Elma & Sille: Bruger den til noget andet udover de kalendere?
 
 00:04:42,229 --> 00:04:43,610
 Dion: Vi bruger den her til alt.
@@ -203,7 +199,7 @@ Minus repo pipeline test bands.
 Elma & Sille: Så du havde fortsat betalt, også selvom vi lavede en løsning
 
 00:04:57,405 --> 00:04:59,185
-Dion: I hele Brohuset? Ja, det er bare vores plan-værktøj.
+Dion: Ja, det er bare vores plan-værktøj.
 
 00:05:00,285 --> 00:05:04,205
 Herinde der ligger alle mine opgaver, alle de planer vi har for mit team.
@@ -215,7 +211,7 @@ Elma & Sille: Og så det du siger, det er, at I havde faktisk farvet femogtrediv
 Altså nogle af jeres medarbejdere? Ja, ja.
 
 00:05:09,450 --> 00:05:12,430
-Dion: For mig er det bare et add-on-etferien, der ligger herinde.
+Dion: For mig er det bare et add-on at ferien, der ligger herinde.
 
 00:05:14,090 --> 00:05:15,210
 Så det er egentlig fint nok.
@@ -227,40 +223,40 @@ Man må se, at det er mig ikke prangende, men
 Elma & Sille: At den er helt optimal?
 
 00:05:20,010 --> 00:05:20,985
-Ja, det er den ikke.
+Dion: Ja, det er den ikke.
 
 00:05:22,025 --> 00:05:26,764
-Dion: Men det er måden vi gør det på, fordi ferieplanlægning virker.
+Men det er måden vi gør det på, fordi ferieplanlægning ikke virker.
 
 00:05:27,865 --> 00:05:33,805
-Mange af os skifter over til at køre på Azure joint Inbrron, og her er det sjovere, at vi er ferieplanlægning.
+Mange af os skifter over til at køre på Azure join endpoints. Og her er det så her ovre at ferieplanlægning ikke virker.
 
 00:05:38,950 --> 00:05:42,410
 Jeg tror den skal ligge på med Windows low alle mulige, og der bliver en vinkel sur.
 
 00:05:43,830 --> 00:05:46,650
-Elma & Sille: Har du fået mange jokes omkring DRID?
+Elma & Sille: Har du fået mange jokes omkring DAD?
 
 00:05:47,110 --> 00:05:51,850
-Dion: Ja. Rigtig meget. Der er også en der hedder Morgen.
+Dion: Ja. Rigtig meget. Der er også en der hedder MOM.
 
 00:05:54,685 --> 00:05:57,105
-Elma & Sille: Virkelig. Som ikke være parret. Det er en mand.
+Elma & Sille: Virkelig. Som må i være parret. 
 
 00:05:58,125 --> 00:06:03,725
-Dion: Men Yordecou. Så har vi en, der hedder Sund også. Det er
+Dion: Det er en mand. Så har vi en, der hedder SON også. Det er
 
 00:06:03,725 --> 00:06:06,759
-Elma & Sille: da perfekt. Mangler jeg bare Dagdøg. Lidt svært.
+Elma & Sille: da perfekt. Mangler jeg bare Daughter. Lidt svært.
 
 00:06:06,759 --> 00:06:08,780
 Dion: Ja, den er lidt kit.
 
 00:06:11,240 --> 00:06:15,979
-Jeg har virkelig mange sjove Der var også sådan nogen, der hed VPN og sådan noget. Eller mac.
+Jeg har virkelig mange sjove Der var også sådan nogen, der hed VPN og sådan noget. Eller MAC.
 
 00:06:17,845 --> 00:06:19,305
-Der er virkelig mange gode trygge.
+Der er virkelig mange gode, tre bogstaver.
 
 00:06:21,444 --> 00:06:24,745
 Men ja, det er det, jeg bruger. Jeg bruger andet.
@@ -272,13 +268,13 @@ Jeg bruger Teamsskalender, men der kan jeg ikke rigtigt se andre.
 Det er kun til noget enkelt møde, koordinationer, og det er jo ikke det, ferieplanløsningen skal kunne.
 
 00:06:36,600 --> 00:06:39,640
-Men herinde kan jeg godt gå ind og tjekke. Tjek andre, som
+Men herinde kan jeg godt gå ind og tjekke. 
 
 00:06:39,640 --> 00:06:40,600
-Elma & Sille: du kan lave et møde med?
+Elma & Sille:Tjek andre, som du kan lave et møde med?
 
 00:06:40,600 --> 00:06:47,414
-Dion: Ja, hvis jeg skal se om Linda er på møde eller skulle på ferie, så kunne jeg bare gå hen og
+Dion: Ja, hvis jeg skal se om Linda er på møde eller skulle på ferie, så kunne jeg bare gå her ind
 
 00:06:47,414 --> 00:06:48,555
 så bare lige scrolle lidt.
@@ -314,13 +310,13 @@ For eksempel når jeg skal slå op mit team, så er det elleve mand.
 For det første skal jeg huske elleve mands navne og slå dem op her.
 
 00:07:16,664 --> 00:07:19,565
-Og så skal jeg skrive alle deres teaterværker. Det er tramp.
+Og så skal jeg skrive alle deres initialer hver gang. Det er træls.
 
 00:07:19,785 --> 00:07:23,164
-Jeg var ind et sted, hvor det pre-på-billet, der bare puf.
+Jeg vil ind et sted, hvor det pre-populated, der bare puf.
 
 00:07:23,544 --> 00:07:27,470
-Elma & Sille: Og så kan du bare highlighte og gennem Teams?
+Elma & Sille: Og så kan du bare highlighte og gemme Teams?
 
 00:07:27,730 --> 00:07:28,990
 Dion: Ja, præcis.
@@ -329,10 +325,10 @@ Dion: Ja, præcis.
 Med det sagt, så Jeg kan jo ikke se behovet selv. Jeg har det ikke.
 
 00:07:41,930 --> 00:07:43,014
-Altså du har ikke behovet?
+Elma & Sille: Altså du har ikke behovet?
 
 00:07:43,014 --> 00:07:45,595
-Nej, ferieplan for mig er
+Dion: Nej, ferieplan for mig er
 
 00:07:48,535 --> 00:07:52,794
 luksus på en måde det er som om, det er for meget.
@@ -341,10 +337,10 @@ luksus på en måde det er som om, det er for meget.
 Hvis jeg virkelig havde brug for det, lavede jeg et Excel-ark med de elleve mennesker og planlagde sommerferien, tror jeg.
 
 00:07:58,069 --> 00:08:00,169
-Elma & Sille: Det havde været en suygkkedark. Præcis.
+Elma & Sille: Det havde været en studen worker der havde gjort det. 
 
 00:08:01,349 --> 00:08:02,409
-Dion: Det er meget billigere.
+Dion: Præcis. Det er meget billigere.
 
 00:08:05,190 --> 00:08:09,370
 Jeg synes, det er luksus, men der hvor jeg ved, at det giver værdi, det er jo projektledere
@@ -368,19 +364,19 @@ Sidste gang var to år siden for eksempel, så jeg ikke skulle bruge noget I to 
 Hvis det så er vi skal gøre det, så er det typisk nogle projektledere, der sætter et eller andet op til mig.
 
 00:08:38,245 --> 00:08:43,865
-Så for mig er det ikke en god løsning, når den bliver serveret for ham både sølvfad.
+Så for mig er det ikke en god løsning, når den bliver serveret for mig både sølvfad.
 
 00:08:43,925 --> 00:08:45,225
 Men ellers er den ikke.
 
 00:08:46,964 --> 00:08:54,420
-Elma & Sille: Okay. Så det er op til dem vi egentlig går efter, det er dem der laver projektet og har stået på
+Elma & Sille: Okay. Så det er op til dem vi egentlig går efter, det er dem der laver projektet og har styr på projektet
 
 00:08:54,420 --> 00:08:57,620
-Dion: skolen måde. Det er hende Caroline, jeg har givet jer. Altså hendes kolleger.
+Dion: klart målgruppen det er hende Caroline, jeg har givet jer. Altså hendes kolleger.
 
 00:08:57,620 --> 00:08:58,120
-Elma & Sille: De
+Elma & Sille: okay
 
 00:08:58,420 --> 00:09:03,000
 Dion: går lige hjem. De ved, hvad de har brug for og mangler.
@@ -395,7 +391,7 @@ Og så kan vi prøve at tage det
 Dion: og samle det og lægge det.
 
 00:09:10,925 --> 00:09:17,504
-Det jeg viser jer inde I Audi DevOps, det er forholdsvist tæt på. Den her kalenderproduktion.
+Det jeg viser jer inde I jeres DevOps, det er forholdsvist tæt på. Den her kalenderproduktion.
 
 00:09:17,805 --> 00:09:19,840
 Elma & Sille: Ja, udover at billederne ikke virker. Ud over billederne
@@ -419,16 +415,16 @@ Dion: Vi har sådan en demografi I KMD, som er tanggerende over mod Boomer.
 Vi har en høj gennemsnit I forhold til at vise softwarehus.
 
 00:09:44,760 --> 00:09:49,420
-Og sådan midttime, det er også ekstremt højt faktisk.
+Og sådan mit team, det er også ekstremt højt faktisk.
 
 00:09:49,720 --> 00:09:54,060
 Jeg tror vi er over halvtreds måske I gennemsnit.
 
 00:09:55,320 --> 00:09:57,725
-Elma & Sille: Skal du ikke flere steder? Hvis
+Elma & Sille: Skal du ikke flere studerende? Hvis
 
 00:10:00,824 --> 00:10:08,665
-nu vi siger, at FA-planningerne er en luksus for dig, ville den skulle have nogle ekstra features
+nu vi siger, at Ferie-planlæggeren er en luksus for dig, ville den skulle have nogle ekstra features
 
 00:10:08,665 --> 00:10:12,000
 for at gøre den mere forbedring for dig at bruge?
@@ -440,13 +436,13 @@ Dion: Ja, det tror jeg også nævnte lidt på vores første møde.
 Men sådan noget som Og det er måske også vigtigt at vise jer.
 
 00:10:22,640 --> 00:10:27,115
-Når vi skal registrere ferie og sådan noget, så gør vi det igennem succesfaktor, sapp succesfaktor.
+Når vi skal registrere ferie og sådan noget, så gør vi det igennem succesfaktor, SAP succesfaktor.
 
 00:10:28,214 --> 00:10:31,035
 Som er forbundet til alt muligt andet I kompagni.
 
 00:10:32,694 --> 00:10:37,514
-Og nu skal vi lige se om der er noget personøvelser der. Det var der ikke.
+Og nu skal vi lige se om der er noget person følsomt der. Det var der ikke.
 
 00:10:40,150 --> 00:10:45,910
 Hvis man går herind og registrerer sin ferie, så I gamle dage, hvis jeg kørte sådan nogle crash
@@ -476,13 +472,13 @@ Det ville blokere mig fuldstændig at bruge den, for jeg skal ikke tage at plott
 Elma & Sille: Så hvordan kunne du tænke dig, at folk skal indsætte deres ferier?
 
 00:11:30,545 --> 00:11:36,769
-Dion: Jeg tænker, at der skulle være en integration fra enten succesfaktor, som registrerer nu har
+Dion: Jeg tænker, at der skulle være en integration fra enten succesfaktor, som registrerer 
 
 00:11:36,769 --> 00:11:39,910
 jeg registreret min ferie, og port det videre til den her løsning.
 
 00:11:40,290 --> 00:11:47,350
-Eller så skulle det være en integration fra Outlook, der måske søgt på den ISS-fil, en mail-fil,
+Eller så skulle det være en integration fra Outlook, der måske søgt på den ICS-fil, en mail-fil,
 
 00:11:48,130 --> 00:11:50,115
 hvad der kommer ud, når man gør det her.
@@ -491,22 +487,19 @@ hvad der kommer ud, når man gør det her.
 Den har altid tagget med det samme navn, så der er et eller andet I den navnekombination, som
 
 00:11:54,195 --> 00:11:59,175
-man måske kunne putte direkte fra Craft API til Office træmot.
+man måske kunne putte direkte fra Graph API til Office.
 
 00:12:00,755 --> 00:12:02,135
 Så det er også en mulighed.
 
 00:12:02,435 --> 00:12:08,510
-Der er vi igen ude I en luksus-funktion I forhold til, hvad jeg tror, der er I sidste forhold til jeres
+Der er vi igen ude I en luksus-funktion I forhold til, hvad jeg tror, der er I realistisk til jeres
 
 00:12:08,510 --> 00:12:13,710
-Elma & Sille: eget ferie. Så det du ikke kunne tænke dig, det var, at du skal ind på KMD IV plan og så plotte
+Elma & Sille: Så det du ikke kunne tænke dig, det var, at du skal ind på KMD ferieplan plan og så plotte
 
 00:12:13,710 --> 00:12:14,750
-det ind, og så ville være der.
-
-00:12:14,750 --> 00:12:16,770
-Så noget der er antikrav på den måde.
+det ind, og så ville være der
 
 00:12:17,405 --> 00:12:20,445
 Dion: Det ville gøre, at jeg ville kunne bruge det også. Og det
@@ -533,10 +526,10 @@ Dion: det være. Det er hende, der sørger for, at jeg har styr på mine ting.
 Elma & Sille: Fik du tæet hendes navn?
 
 00:12:38,440 --> 00:12:41,160
-Dion: Jeg tror faktisk ikke, jeg har sendt hendes navn til jer. Så kunne
+Dion: Jeg tror faktisk ikke, jeg har sendt hendes navn til jer.
 
 00:12:41,160 --> 00:12:44,600
-Elma & Sille: vi nemlig skrive en mail, for der var aldrig nogen, der var på ferie, så vi har kontaktet jer. Men det
+Elma & Sille:  Så kunne vi nemlig skrive en mail, for der var aldrig nogen, der var på ferie, så vi har kontaktet jer. Men det
 
 00:12:44,600 --> 00:12:47,885
 Dion: kan I bare lige høre ned, det er MGA. Og så
@@ -545,7 +538,7 @@ Dion: kan I bare lige høre ned, det er MGA. Og så
 Elma & Sille: er det samme mail, som du har bare
 
 00:12:49,565 --> 00:12:50,464
-Dion: MGA? Ja,
+Dion: ja, hun er engelsk talende, hun hedder Martha
 
 00:13:04,750 --> 00:13:07,490
 Elma & Sille: Vi kan nogle ord, som man nok ikke skulle sige.
@@ -557,10 +550,10 @@ Nogle af dem har vi gerne et svar på løbende.
 Skal man kunne beskrive de forskellige ferier?
 
 00:13:19,435 --> 00:13:25,770
-For eksempel: I er på ferie, man kan kontaktes via telefon eller Jeg er på min datter I dag
+For eksempel: I er på ferie, man kan kontaktes via telefon eller Jeg er ovre og passe min datter I dag
 
 00:13:25,770 --> 00:13:28,410
-eller kun fører jer, eller det er også dage, hvor man ikke er. Det er
+eller kun ferie jer, eller det er også dage, hvor man ikke er. Det er
 
 00:13:28,410 --> 00:13:30,410
 Dion: meget fedt at kunne tilføje noter på det.
@@ -569,7 +562,7 @@ Dion: meget fedt at kunne tilføje noter på det.
 På sine egne elementer derinde.
 
 00:13:35,290 --> 00:13:40,315
-Vores brug scenarie vil typisk være omkring sommerferien, hvor vi sidder I sådan en demo-observruption,
+Vores brug scenarie vil typisk være omkring sommerferien, hvor vi sidder I sådan en dev operservation,
 
 00:13:40,535 --> 00:13:42,295
 hvor vi skal koordinere vores ferie.
@@ -578,34 +571,31 @@ hvor vi skal koordinere vores ferie.
 Så der skal næsten altid være nogen, der er på vagt, og hvis vi overlapper ferie, så aftaler
 
 00:13:46,295 --> 00:13:49,195
-vi, hvem der er nogen, der ringer.
+vi, hvem er den, hvis der er nogen, der ringer.
 
 00:13:49,895 --> 00:13:51,675
 Så det kunne være meget fint at sige:
 
-00:13:52,710 --> 00:13:53,370
-Elma & Sille: Jeg er en
-
 00:13:53,990 --> 00:13:55,930
-Dion: dårlig, jeg er på call eller et eller andet.
+jeg er på call eller et eller andet.
 
 00:13:59,590 --> 00:14:03,930
-Elma & Sille: Hvad så med, hvis man bare er hjerte-tænlige lige her?
+Elma & Sille: Hvad så med, hvis man bare jeg er til tandlæge lige her?
 
 00:14:03,990 --> 00:14:05,930
 Dion: Ja, det ville ikke være relevant.
 
 00:14:06,665 --> 00:14:10,285
-Elma & Sille: Så det er udelukkende ferie, vi kigger på I øjeblikket? Ja.
+Elma & Sille: Så det er udelukkende ferie, vi kigger på I øjeblikket? 
 
 00:14:10,585 --> 00:14:18,585
 Så det du tænker, det er, at det er noget integreret, vi vil lave en løsning til, som fletter
 
 00:14:18,585 --> 00:14:23,740
-ferie ind I jeres kalender eller omvendt? Ja. Så det er
+ferie ind I jeres kalender eller omvendt? 
 
 00:14:23,740 --> 00:14:27,040
-Dion: ikke sådan udelukkende sygdom skal jo også møde også.
+Dion: Ja. Så det er ikke sådan udelukkende sygdom skal jo også med også.
 
 00:14:27,100 --> 00:14:28,560
 Elma & Sille: Ja, stille længere.
@@ -614,7 +604,7 @@ Elma & Sille: Ja, stille længere.
 Dion: Jeg tror det gælder, det er alt det man kan registrere herinde. Ja, I
 
 00:14:34,940 --> 00:14:37,745
-Elma & Sille: havde sådan nogle koder, som mat spiste os.
+Elma & Sille: havde sådan nogle koder, som Mats viste os.
 
 00:14:41,885 --> 00:14:44,285
 Og der var vi også tilsendt. Var vi ikke det?
@@ -626,7 +616,7 @@ Vi havde I hvert fald fået som screenshot på.
 Dion: Jeg ved ikke om det var de gamle, jeg har fået nyt.
 
 00:14:50,700 --> 00:14:52,880
-Elma & Sille: Det var sådan nogle abiations. Ja,
+Elma & Sille: Det var sådan nogle abbreviations. Ja,
 
 00:14:54,140 --> 00:14:56,320
 Dion: de ligger stadig omme bagved et sted.
@@ -635,22 +625,16 @@ Dion: de ligger stadig omme bagved et sted.
 Men nu er det blevet sådan, at normale mennesker også forstår, hvad det
 
 00:15:02,945 --> 00:15:03,505
-Elma & Sille: lidt op stort.
+Elma & Sille: lettere forståeligt.
 
 00:15:03,505 --> 00:15:05,185
-Dion: For kunne der kun blive rib med en sang
-
-00:15:05,185 --> 00:15:05,425
-Elma & Sille: og kunne
-
-00:15:05,425 --> 00:15:06,084
-Dion: finde ud af
+Dion: før var det kun ultranørder i SAP der kunne finde ud af det
 
 00:15:07,584 --> 00:15:08,625
-Elma & Sille: det. Caros leave.
+Elma & Sille: Caros leave.
 
 00:15:08,625 --> 00:15:12,165
-Dion: Ja, jeg kan faktisk huske Bre med et liv, fordi det var jeg nødt til Google.
+Dion: Ja, jeg kan faktisk huske breavement leave, fordi det var jeg nødt til Google.
 
 00:15:15,240 --> 00:15:20,600
 Men altså barnets første sygedag, barnets anden sygedag Så er der også noget af det, det er
@@ -659,10 +643,10 @@ Men altså barnets første sygedag, barnets anden sygedag Så er der også noget
 noget polsk specifikt, tror jeg.
 
 00:15:24,360 --> 00:15:26,620
-Elma & Sille: Det burde de jo også have in mente.
+Elma & Sille: Det burde de jo også have i mente.
 
 00:15:26,839 --> 00:15:29,505
-Dion: Ja, for der var en eller anden lovgivning I vandet.
+Dion: Ja, for der var en eller anden lovgivning der nede.
 
 00:15:29,745 --> 00:15:38,865
 Hvis man I Polen melder sig syg for arbejde, du har bare lige snefluen eller lignende, så er du syg to dage. Du skal være syg?
@@ -677,7 +661,7 @@ Og efter de to dage, så kan du få to dage mere, Hver gang skal der fylde en l�
 Så har de nogle on- call læger, der bare lige kan diagnosticere dem over telefonen. Så er det fedt. Det er
 
 00:15:52,730 --> 00:15:54,190
-Elma & Sille: da også fedt, at der ikke er så ved man ikke.
+Elma & Sille: da også fedt,  nok så behøver man ikke tage der ned.
 
 00:15:54,410 --> 00:15:55,515
 Dion: Det er super praktisk.
@@ -685,11 +669,8 @@ Dion: Det er super praktisk.
 00:15:56,155 --> 00:16:00,555
 Elma & Sille: Nå okay. Det skal vi huske, når vi laver de her ting.
 
-00:16:00,555 --> 00:16:02,175
-Dion: Og de her ting jeg har. Så
-
 00:16:03,515 --> 00:16:09,375
-Elma & Sille: det kunne både være fedt, at man havde en type af ferie og en måde at lægge nogen på? Ja.
+det kunne både være fedt, at man havde en type af ferie og en måde at lægge note på? Ja.
 
 00:16:15,149 --> 00:16:22,209
 Er der et sted, hvor den her liste er samlet, hvor der står en beskrivelse af, hvad det egentlig er?
@@ -698,13 +679,13 @@ Er der et sted, hvor den her liste er samlet, hvor der står en beskrivelse af, 
 Eller er det bare noget, der er implicit, man ved, når man arbejder her?
 
 00:16:26,595 --> 00:16:27,815
-Dion: Ikke som jeg kan gi'er.
+Dion: Ikke som jeg kan give jer.
 
 00:16:27,875 --> 00:16:31,954
 Elma & Sille: Så otte-elleve-arros-ruder. Ja. Ikke som jeg kan
 
 00:16:31,954 --> 00:16:34,375
-Dion: gi'er eller sende til jer.
+Dion: give jer eller sende til jer.
 
 00:16:34,595 --> 00:16:36,454
 Fordi det er vores håndbog, tror jeg.
@@ -731,7 +712,7 @@ Hvor man skal finde de regler der.
 Elma & Sille: Jeg tænker også det er fint.
 
 00:17:11,640 --> 00:17:17,485
-Vi kan også prøve at Google os frem til det, så hvis vi vil gå givet navne, så kan vi snakke om det.
+Vi kan også prøve at Google os frem til det, så hvis vi vil går ged i navne, så kan vi snakke om det.
 
 00:17:17,485 --> 00:17:19,745
 Jeg tænkte også meget af det, at vælge det opslagingsspørgsmål.
