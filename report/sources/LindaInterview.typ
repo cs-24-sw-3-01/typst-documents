@@ -14,22 +14,19 @@ Og det samme med teams.
 Kan du søge I den der liste med dem, når du skal vælge det?
 
 00:00:32,600 --> 00:00:33,980
-Linda: Jeg kan da lige se med.
+Linda: I kan da lige se med.
 
 00:00:39,480 --> 00:00:46,675
 Nu har jeg egentlig bare lige klikket ind for at sige, at jeg gerne vil oprette et nyt userbaseret team.
 
 00:00:48,015 --> 00:00:52,094
-Så går jeg herind og siger, at jeg vil gerne have Nu er den henne.
+Så går jeg herind og siger, at jeg vil gerne have hvor den henne.
 
 00:00:52,094 --> 00:00:54,415
 Ja, nu er det så ikke særlig. Jeg gør det ikke.
 
 00:00:54,415 --> 00:00:55,795
 Det er ret tit det her.
-
-00:00:56,094 --> 00:00:57,714
-På liv er at sige clos.
 
 00:01:06,460 --> 00:01:08,720
 Mads: Okay, men den team der for eksempel.
@@ -38,13 +35,13 @@ Mads: Okay, men den team der for eksempel.
 Så er det din egen teams, du er en del af de øverst. Ja. Så kan du scrolle.
 
 00:01:13,420 --> 00:01:19,575
-Linda: Så kan jeg scrolle ned, så har jeg faktisk et overblik over alle de teams, der er oprettet I kondD herinde.
+Linda: Så kan jeg scrolle ned, så har jeg faktisk et overblik over alle de teams, der er oprettet I KMD herinde.
 
 00:01:20,595 --> 00:01:24,855
-Mads: Tror du, det ville være mere lækkert, hvis den drop down der, at man kunne søge den også?
+Mads: Tror du, det ville være mere lækkert, hvis den drop down der, at man kunne søge i den også?
 
 00:01:30,140 --> 00:01:32,720
-Linda: Ja. Du tænker på, at der skulle være en tarp hat.
+Linda: Ja. Du tænker på, at der skulle være en type head.
 
 00:01:33,580 --> 00:01:36,080
 Mads: Ja, som deroppe I felter, man bare kunne søge.
@@ -56,7 +53,7 @@ Det kunne vi selvfølgelig tilføje, hvis det var.
 Men ellers er det jo fint nok, når ens teams bare ligger øverst.
 
 00:01:41,564 --> 00:01:46,204
-Speaker 3: Er det så alle teams, der er, eller alle de teams, du er en del af?
+Zafir: Er det så alle teams, der er, eller alle de teams, du er en del af?
 
 00:01:46,204 --> 00:01:50,145
 Linda: Nej, det er alle teams, der er oprettet I det produkt her.
@@ -74,7 +71,7 @@ Og der kan I se, der bruger de det I hvert fald.
 Der er der registreringer, og det her er fravær, der egentlig blevet registreret I den manuelt.
 
 00:02:09,985 --> 00:02:12,405
-Og det kan jeg se ved, at det er et skrabiært felt.
+Og det kan jeg se ved, at det er et skraberet felt.
 
 00:02:13,105 --> 00:02:14,785
 Mads: Nå, nå det er der simpelthen forskel på.
@@ -83,10 +80,10 @@ Mads: Nå, nå det er der simpelthen forskel på.
 Linda: Ja, det er det. Hvis det var noget, der var kommet over fra, du prøver at se her, det her det
 
 00:02:18,465 --> 00:02:19,925
-er en hel dag, ikke?
+er en hellig dag, ikke?
 
 00:02:20,280 --> 00:02:23,099
-Mads: Nå, det kommer det over fra samarbejdet eller hvad?
+Mads: Nå, det kommer det over fra SAP af eller hvad?
 
 00:02:23,159 --> 00:02:32,280
 Linda: Nej, det kommer egentlig fra en kalenderfunktion, som den gamle udvikler har sat herind.
@@ -95,25 +92,25 @@ Linda: Nej, det kommer egentlig fra en kalenderfunktion, som den gamle udvikler 
 Som så viser, at det her er de hellige dage, de bliver sat ind.
 
 00:02:35,745 --> 00:02:43,125
-Og hvis man havde haft en funktion fra Zapp, så havde den været fuld grøn.
+Og hvis man havde haft en funktion fra SAP, så havde den været fuld grøn.
 
 00:02:43,665 --> 00:02:44,385
 Mads: Nå, på den måde.
 
 00:02:44,385 --> 00:02:47,444
-Linda: Og skulle komme ind fra Zapp af dengang vi havde ønsket.
+Linda: Og skulle komme ind fra SAP af dengang vi integration ikke.
 
 00:02:49,870 --> 00:02:53,630
-Mads: Man kan faktisk sige forskel på, var det her importeret for Zapp eller lavet manuelt?
+Mads: Man kan faktisk se forskel på, var det her importeret for SAP eller lavet manuelt?
 
 00:02:53,630 --> 00:02:55,810
-Linda: Ja, eller noget jeg manuelt har selv det. Okay,
+Linda: Ja, eller noget jeg manuelt har selv det. 
 
 00:02:56,910 --> 00:03:06,475
-Mads: men fungerer det fint nok med at det er skraberet af så du ikke kan vælge et par helligdage og sådan noget? Ja. I arbejder aldrig I
+Mads: Okay, men fungerer det fint nok med at det er skraberet af så du ikke kan vælge et par helligdage og sådan noget? Ja. I arbejder aldrig i helligdage.
 
 00:03:06,694 --> 00:03:08,775
-Linda: helligdage. Det gør vi helst ikke der.
+Linda:  Det gør vi helst ikke der.
 
 00:03:08,775 --> 00:03:11,115
 Mads: Helst ikke? Nej især, det er selvfølgelig også fair nok.
@@ -122,28 +119,28 @@ Mads: Helst ikke? Nej især, det er selvfølgelig også fair nok.
 Linda: Men det kan man selvfølgelig blive nødt til, hvis vi har et eller andet, der crasher, så kan
 
 00:03:18,400 --> 00:03:19,600
-man godt binde en tur til det.
+man godt blive nødt til det.
 
 00:03:19,600 --> 00:03:22,500
 Men det er jo ikke noget, man planlægger efter.
 
 00:03:22,560 --> 00:03:23,220
-Mads: Så det
+Mads: Når nej, det er selvfølgelig rigtig.
 
 00:03:23,840 --> 00:03:25,700
 Linda: er altid et eller andet, der opstår akut.
 
 00:03:25,840 --> 00:03:29,620
-Og så kan man komme ind og arbejde hele dage eller weekender.
+Og så kan man komme ind og arbejde hellig dage eller weekender.
 
 00:03:30,480 --> 00:03:31,780
-Mads: Det kan selvfølgelig gå med
+Mads: Det kan selvfølgelig god mening ja.
 
 00:03:32,405 --> 00:03:38,965
-Linda: Men det er en rigtig fin feature, at man kan se, hvornår der er hellig der er. Ja.
+Linda: Men det er en rigtig fin feature, at man kan se, hvornår der er hellig dage.
 
 00:03:38,965 --> 00:03:44,025
-Og som det kan I selvfølgelig ikke se, men den her elleve.
+Og som det kan I selvfølgelig ikke se, men den her ellvte.
 
 00:03:44,165 --> 00:03:48,030
 November, det er jo ikke en hellig dag I Danmark Eller en fridag.
@@ -152,7 +149,7 @@ November, det er jo ikke en hellig dag I Danmark Eller en fridag.
 Så det er højst sandsynligt polak, som har en hellig dag.
 
 00:03:53,150 --> 00:03:57,810
-Der står også der, at det er deres Indepenance Day I Polen, når den hober henover.
+Der står også der, at det er deres Independence Day I Polen, når den hopper henover.
 
 00:03:58,270 --> 00:03:59,250
 Mads: Okay, ja.
@@ -161,16 +158,16 @@ Mads: Okay, ja.
 Linda: Så hvis man kan se de helligdage, der er til det pågældende land, man samarbejder med.
 
 00:04:06,325 --> 00:04:11,685
-Speaker 3: Er det noget, I godt kan lide, at man kan se, hvornår de for eksempel har helligdage?
+Zafir: Er det noget, I godt kan lide, at man kan se, hvornår de for eksempel har helligdage?
 
 00:04:11,685 --> 00:04:14,265
-Linda: Ja, for så ved vi, at vi ikke kan få fat I den.
+Linda: Ja, for så ved vi, at vi ikke kan få fat I dem.
 
 00:04:14,920 --> 00:04:15,980
 Mads: Det kan selvfølgelig godt være.
 
 00:04:17,720 --> 00:04:24,300
-Linda: De fleste af os har faktisk også alle slået til I vores kalender, at man kan se de polske helligdage også.
+Linda: De fleste af os har faktisk også alle slået til i vores kalender, at man kan se de polske helligdage også.
 
 00:04:25,080 --> 00:04:30,175
 Så når man arbejder tæt sammen med nogen fra et andet land, som har en helt anden sæt helligdage
@@ -185,10 +182,10 @@ Mads: Okay. Lad os sige, at du vil registrere fravær på den dag med den polske
 Ja, det er per person I rækkerne.
 
 00:04:46,240 --> 00:04:46,400
-Speaker 3: Når
+Zafir: Når
 
 00:04:46,400 --> 00:04:48,660
-Linda: jeg håber hen over, så kan jeg se, at det
+Linda: jeg hopper hen over, så kan jeg se, at det
 
 00:04:53,120 --> 00:04:55,220
 der. Men den der grønne,
@@ -203,19 +200,19 @@ Linda: kan I se, det er GPI, Og det er så også GPI, der har den der.
 Fordi de har sådan nogenlunde samme placering på kalenderen.
 
 00:05:07,615 --> 00:05:08,835
-Speaker 3: Så det er for hvert.
+Zafir: Så det er for hvert.
 
 00:05:09,855 --> 00:05:11,660
-Så det er en liste over teamembers.
+Så det er en liste over team members.
 
 00:05:12,040 --> 00:05:13,880
 Linda: Ja. Jo, nu kan jeg ikke hjælpe ud af det.
 
 00:05:13,880 --> 00:05:14,620
-Speaker 3: Det var faktisk
+Zafir: Det var faktisk
 
 00:05:16,040 --> 00:05:20,140
-Mads: meget sat op ja. Så det er hver teamember har sin egen række der. Ja.
+Mads: meget sat op ja. Så det er hver team member har sin egen række der. Ja.
 
 00:05:20,920 --> 00:05:21,420
 Linda: Præcis.
@@ -226,26 +223,23 @@ Ja, det er sådan, at man ligesom kan dele det op.
 00:05:33,935 --> 00:05:36,255
 Det bliver lidt uoverskueligt, hvis der er rigtig mange.
 
-00:05:36,255 --> 00:05:37,055
-Mads: Så kan vi prøve at
-
 00:05:37,055 --> 00:05:38,915
-Linda: tage mit eget team her.
+Linda:Så kan vi prøve at tage mit eget team her.
 
 00:05:42,490 --> 00:05:48,490
 Men det er jo ikke sådan, at det er en et til et vi skal have, sådan skal I endelig ikke forstå det.
 
 00:05:48,490 --> 00:05:50,330
-Speaker 3: Nej, vi prøver bare at forstå det.
+Zafir: Nej, vi prøver bare at forstå det.
 
 00:05:50,330 --> 00:05:52,170
 Linda: Ja ja og forstå, hvordan
 
 00:05:52,170 --> 00:05:52,910
-Speaker 3: det fungerer.
+Zafir: det fungerer.
 
 00:06:09,349 --> 00:06:13,530
-Så er det svært at finde de teams, du er en del af.
+føler du at svært at finde de teams, du er en del af.
 
 00:06:15,190 --> 00:06:16,889
 Linda: Ja, det er ikke ret nemt faktisk.
@@ -260,10 +254,10 @@ Linda: Jo, det er dem jeg selv har lavet.
 Det er dem jeg selv har kravet.
 
 00:06:27,284 --> 00:06:31,865
-Dem jeg så er med I, de ligger lidt spredt fakening. Kunne
+Dem jeg så er med I, de ligger lidt i en spredt fægtning. 
 
 00:06:37,870 --> 00:06:40,350
-Mads: det måske være fedt, hvis du havde to kategorier oppe I toppen?
+Mads: Kunne det måske være fedt, hvis du havde to kategorier oppe I toppen?
 
 00:06:40,350 --> 00:06:43,169
 Både med dem du er en del af, og dem du selv har lavet?
@@ -275,7 +269,7 @@ Linda: Ja, det kunne da helt klart give et rigtig godt overblik. Ja.
 Nu siger jeg her, der er jeg med. Nu klikker jeg igen.
 
 00:06:59,035 --> 00:07:05,375
-Jeg skal gå ind og sætte noget appsen ind her, så klikker jeg på man incidenents.
+Jeg skal gå ind og sætte noget absence ind her, så klikker jeg på man maintenance.
 
 00:07:05,629 --> 00:07:07,069
 Så går jeg over til oktober.
@@ -284,28 +278,25 @@ Så går jeg over til oktober.
 Så siger jeg: Jeg skal være væk her.
 
 00:07:20,485 --> 00:07:23,544
-Sådan, så har jeg lige sat min eftersvær ind.
+Sådan, så har jeg lige sat min efterårs ferie ind der.
 
 00:07:29,525 --> 00:07:32,985
-Så er den skraeret på min placering her.
+Så er den skraberet på min placering her.
 
 00:07:33,285 --> 00:07:37,680
 Mads: Noget Vi har også snakket om, at man kunne sætte ind for for eksempel tidspunkter.
 
 00:07:37,900 --> 00:07:41,040
-Men kører I det bare som hele dage, når det er appSense?
+Men kører I det bare som hele dage, når det er absence?
 
 00:07:41,180 --> 00:07:43,980
-Der er ikke noget med, at jeg kommer I kaladinde af dagen?
+Der er ikke noget med, at jeg kommer ikke halvdelen af dagen?
 
 00:07:43,980 --> 00:07:49,085
 Linda: Nej, det fortæller man sådan fra tid til anden.
 
-00:07:49,270 --> 00:07:49,770
-Mads: At
-
 00:07:49,956 --> 00:07:53,885
-Linda: man ikke er tilgængelig om eftermiddagen.
+Linda: At man ikke er tilgængelig om eftermiddagen.
 
 00:07:56,825 --> 00:08:01,965
 Jeg har I hvert fald ikke det store behov for at kunne se halve dage på nogen.
@@ -317,16 +308,16 @@ Og der har vi jo vores rigtige kalender.
 Så hvis man har en privat aftale, sætter man det ind I den rigtige kalender, og så kan man kigge derinde.
 
 00:08:13,260 --> 00:08:14,700
-Mads: Er der aflute kalenderen I køre?
+Mads: Er der Outlook kalenderen I køre?
 
 00:08:14,700 --> 00:08:17,015
 Linda: Nej, det er I
 
 00:08:18,995 --> 00:08:23,955
-Speaker 3: kalenderen. Vi skal lige vide ind I Foretrækker at bruge for
+Zafir: kalenderen. Vi skal lige vide hvilken en i foretrækker at bruge for eksempel.
 
 00:08:23,955 --> 00:08:32,620
-Linda: eksempel. Den her Outlook-kalenderen, den skal altid være opdateret. Ja. Og
+Linda: Den her Outlook kalender, den skal altid være opdateret. Ja. Og
 
 00:08:35,640 --> 00:08:40,060
 der skal man have sat tingene ind.
@@ -341,7 +332,7 @@ Vi prøver at gå hen på næste uge, hvor jeg er væk.
 Der har vi en smart feature, der gør, at når vi har booket det ind I Succes Factor så sender
 
 00:08:56,495 --> 00:09:02,230
-den en mail med en kalenderindvej Og så klikker vi den ind og gemmer I vores kalender.
+den en mail med en kalender invite Og så klikker vi den ind og gemmer I vores kalender.
 
 00:09:02,230 --> 00:09:03,930
 Så har vi vores ferie herinde.
@@ -349,47 +340,41 @@ Så har vi vores ferie herinde.
 00:09:06,550 --> 00:09:08,330
 Det kan hurtigt blive mange steder,
 
-00:09:08,630 --> 00:09:10,950
-Mads: hvis man skal
-
 00:09:10,950 --> 00:09:13,130
-Linda: ind og justere rundt på det.
+Linda: hvis man skal ind og justere rundt på det.
 
 00:09:14,195 --> 00:09:16,455
 Mads: Det er jo tre systemer allerede der. Ja,
 
 00:09:18,035 --> 00:09:22,055
-Linda: vi har facilitatorværktøjer, Outlook kalenderen, og så har vi ferieplanen.
+Linda: vi har Succes Factor, Outlook kalenderen, og så har vi ferieplanen.
 
 00:09:23,475 --> 00:09:27,095
-Speaker 3: Hvilken en vil du sige, du bruger mest eller foretrækker?
+Zafir: Hvilken en vil du sige, du bruger mest eller foretrækker?
 
 00:09:28,310 --> 00:09:29,190
-Linda: Jeg bruger den her,
+Linda: Jeg bruger den her, for det
 
-00:09:29,190 --> 00:09:29,510
-Speaker 3: for det
 
 00:09:29,510 --> 00:09:30,550
-Linda: er den jeg skal bruge.
+er den jeg skal bruge.
 
 00:09:30,550 --> 00:09:36,570
-Det er den, alle mine kollegaer kan slå op I og se, hvornår er jeg vægt og hvornår er jeg. Ja,
+Det er den, alle mine kollegaer kan slå op I og se, hvornår er jeg væk og hvornår er jeg. 
 
 00:09:37,270 --> 00:09:40,170
-Mads: det er da også sådan, at når du får mails, mødlen kan sig.
+Mads: det er da også sådan, at når du får mails, mødeindkaldelse.
 
 00:09:41,430 --> 00:09:42,765
 Linda: Så det er den her.
 
 00:09:43,725 --> 00:09:52,225
-Men bare for at gøre forvirringen på taget, så når vi går over I Teams, så har vi selvfølgelig også kalenderen herovre.
+Men bare for at gøre forvirringen total, så når vi går over I Teams, så har vi selvfølgelig også kalenderen herovre.
 
-00:09:52,525 --> 00:09:53,025
-Mads: Men
+
 
 00:09:53,405 --> 00:09:55,665
-Linda: den er så heldigvis integreret med Outlook-kalenderen.
+Linda: Men den er så heldigvis integreret med Outlook-kalenderen.
 
 00:09:55,965 --> 00:09:57,105
 Mads: Ja, det vel den samme?
@@ -398,31 +383,31 @@ Mads: Ja, det vel den samme?
 Linda: Ja, det er ikke den samme, men den viser det samme.
 
 00:10:00,360 --> 00:10:07,019
-Det er en et-til-en, fordi den har en snabel nede I Outlook I tre hundred og femogtres. Okay.
+Det er en et-til-en, fordi den har en snabel nede I Outlook I 365. Okay.
 
 00:10:08,759 --> 00:10:11,565
-Speaker 3: Så I har fire cirkus?
+Zafir: Så I har fire cirkus?
 
 00:10:12,345 --> 00:10:13,885
 Linda: Ja, det er der faktisk.
 
 00:10:16,745 --> 00:10:24,880
-For at det ikke skal være løgn, så kan de Hvis vi tager succesfaktor
+For at det ikke skal være løgn, så kan de Hvis vi tager Succes Factor
 
 00:10:33,660 --> 00:10:37,040
-Så er der faktisk også, synes vi, hvad jeg lander på her.
+Så er der faktisk også, så skal vi lige se, hvad jeg lander på her.
 
 00:10:56,449 --> 00:11:03,990
-Så er der faktisk også en Teams appsens inden I succesfactor. Okay.
+Så er der faktisk også en Teams absence inden I Succes Factor. 
 
 00:11:05,970 --> 00:11:09,675
 Men den kan man ikke
 
 00:11:12,695 --> 00:11:16,455
-gå ind og bygge et projektimertimer op.
+gå ind og bygge et projekteam op.
 
 00:11:16,455 --> 00:11:20,395
-Det her er den afdeling, vi er med I, som bliver mistænkt.
+Det her er den afdeling, vi er med I, som bliver vist her inde.
 
 00:11:21,260 --> 00:11:26,960
 Så alle mine kollegaer, der har sat noget fravær op, det kommer til at stå herinde.
@@ -470,7 +455,7 @@ Og så en bæk I koden.
 Lidt ligesom der er gjort med den gamle løsning her.
 
 00:12:26,840 --> 00:12:35,495
-Det her, der ligger herinde, det var egentlig baseret på et ekstrakt fra Zapp succesværktøjer,
+Det her, der ligger herinde, det var egentlig baseret på et ekstrakt fra SAP succesværktøjer,
 
 00:12:36,595 --> 00:12:42,855
 som så blev integreret I den her og gjort tilgængelig for alle på tværs.
@@ -554,7 +539,7 @@ Mads: Ja, det er det selvfølgelig rigtigt.
 Linda: Så hvis ens fraværskalender er opdateret, så kunne man jo trække det ind.
 
 00:14:54,160 --> 00:14:57,279
-Mads: Ja, for Outlook er I stedet for Zapp. Eller hvad?
+Mads: Ja, for Outlook er I stedet for SAP. Eller hvad?
 
 00:14:57,279 --> 00:15:00,339
 Linda: Nej, begge dele. Eller hvad?
@@ -563,7 +548,7 @@ Linda: Nej, begge dele. Eller hvad?
 Altså, Outlook er altid vores nej.
 
 00:15:03,839 --> 00:15:09,055
-Undskyld, Zapp er altid vores base for fravær. Okay. Altid.
+Undskyld, SAP er altid vores base for fravær. Okay. Altid.
 
 00:15:10,555 --> 00:15:16,095
 Og så kan man vælge, om man vil putte det I sin kalender I Outlook eller ej.
@@ -593,16 +578,16 @@ Linda: er I princippet fuldstændig irrelevant, for dem har du et andet sted.
 Så det var faktisk en dårlig hel. Det
 
 00:15:47,050 --> 00:15:49,550
-Mads: kan da helt klart være relevant med noget zapp I hvert fald.
+Mads: kan da helt klart være relevant med noget SAP I hvert fald.
 
 00:15:50,010 --> 00:15:54,350
-Hvis I går ud fra, at I allerede har en måde at integrere med det nu, fordi I bruger store zapp.
+Hvis I går ud fra, at I allerede har en måde at integrere med det nu, fordi I bruger store SAP.
 
 00:15:56,755 --> 00:15:59,175
 Jeg tror, at dir og Mads snakkede om det.
 
 00:15:59,555 --> 00:16:04,454
-At de havde en eller anden dygtige Zapp, vi kunne få lov at snakke med muligvis.
+At de havde en eller anden dygtige SAP, vi kunne få lov at snakke med muligvis.
 
 00:16:04,755 --> 00:16:07,415
 Selvfølgelig hvis vi kom langt nok I projektet.
@@ -863,7 +848,7 @@ Jeg tror faktisk ikke, at vi har mere.
 Jeg har fået en masse gode ting ud af det I hvert fald.
 
 00:22:13,635 --> 00:22:21,235
-Speaker 3: Jeg tænkte på I forhold til fagplanerne, at der er forskel på farverne, når det er tabt, og
+Zafir: Jeg tænkte på I forhold til fagplanerne, at der er forskel på farverne, når det er tabt, og
 
 00:22:21,235 --> 00:22:23,175
 når det bare er skrevet ind. Ja.
@@ -884,7 +869,7 @@ Linda: Hvis I får en integration til sæsonen, så vil det give mening, at man 
 den kommer, om den er født automatisk fra succesværktøj eller om den er tastet ind af Linda selv.
 
 00:22:48,615 --> 00:22:49,554
-Speaker 3: Okay. Hvorfor
+Zafir: Okay. Hvorfor
 
 00:22:53,934 --> 00:22:57,554
 føler du, at det er vigtigt, at man kan se den der forskel?
@@ -914,7 +899,7 @@ Det var et dårligt valg, jeg lige tog bold til munden, når vi skulle snakke vi
 Mads: Hvad har du mere?
 
 00:23:53,425 --> 00:23:57,940
-Speaker 3: Jeg spotter mig. Nej, jeg har ikke mere. Ikke sådan rigtigt.
+Zafir: Jeg spotter mig. Nej, jeg har ikke mere. Ikke sådan rigtigt.
 
 00:23:58,320 --> 00:23:59,380
 Linda: Nej, men da
@@ -923,7 +908,7 @@ Linda: Nej, men da
 Hvordan har I tænkt jer at gribe den an, Søren?
 
 00:24:05,040 --> 00:24:08,260
-Speaker 3: Vi er ikke rigtig hundred procent sikre endnu.
+Zafir: Vi er ikke rigtig hundred procent sikre endnu.
 
 00:24:08,895 --> 00:24:16,915
 Nej, for vi vil gerne have det her interview med jer først så vi forstår, hvordan vi nu skal gøre.
@@ -938,7 +923,7 @@ Fordi vi vidste ikke jeg havde ikke forståelse af, at I brugte så mange forske
 Linda: det gør man nu.
 
 00:24:29,100 --> 00:24:31,520
-Speaker 3: Og så også hundred procent, hvordan det virkede.
+Zafir: Og så også hundred procent, hvordan det virkede.
 
 00:24:32,860 --> 00:24:35,200
 Det er godt og set live. Ja.
@@ -947,7 +932,7 @@ Det er godt og set live. Ja.
 Mads: Så det
 
 00:24:35,980 --> 00:24:38,000
-Speaker 3: er egentlig bare det, vi gør I starten.
+Zafir: er egentlig bare det, vi gør I starten.
 
 00:24:40,754 --> 00:24:49,654
 Så skal vi sikkert have noget igen på et tidspunkt, hvor vi har lavet noget og forklare, hvad vi tænker. Altså, vores fremgang er.
@@ -1037,7 +1022,7 @@ Så kan du også lave den relativt enkelte.
 Og behøver ikke at have et kæmpe pin. Jeg kom
 
 00:26:37,495 --> 00:26:41,175
-Speaker 3: til at tænke på, om det er vigtigt at se et teams, som du ikke er en del af?
+Zafir: til at tænke på, om det er vigtigt at se et teams, som du ikke er en del af?
 
 00:26:41,175 --> 00:26:45,299
 Linda: Nej. Det er bestemt ikke vigtigt foran dig.
@@ -1097,7 +1082,7 @@ Så når du stopper, kan de stadig se teamet, men de kan ikke administrere på, 
 der kan komme til og
 
 00:28:06,235 --> 00:28:07,660
-Speaker 3: fra. Så det
+Zafir: fra. Så det
 
 00:28:07,660 --> 00:28:13,200
 Linda: kan jo hurtigt gå ind og blive et problem, når man kører med nogle ret store projektteams I kompagniet.
@@ -1187,7 +1172,7 @@ Så forsvinder de ud af vores miljø og systemer.
 Og så er der ikke nogen tilbage.
 
 00:29:55,634 --> 00:30:00,134
-Speaker 3: Er der nogen teams, også selvom de forsvinder, som I gerne vil have på.
+Zafir: Er der nogen teams, også selvom de forsvinder, som I gerne vil have på.
 
 00:30:03,000 --> 00:30:11,179
 Linda: Nej. Nej, nej. Hvis ikke der er nogen, der er I de der kalenderteams, så skal de jo bare løbe. Ja.
@@ -1232,7 +1217,7 @@ se det fra Ashirt the Rektory.
 Og så sige, at nu skal vi smide stafetten videre på alle de teams, så der hele tiden bliver rullet op automatisk.
 
 00:30:55,455 --> 00:30:55,695
-Speaker 3: Ja
+Zafir: Ja
 
 00:30:55,695 --> 00:30:57,795
 Linda: ja, det ville man jo kunne gøre.
@@ -1244,13 +1229,13 @@ Så kunne være det smart at gøre, at så snart en ejer forsvinder fra et team,
 Mads: Ja, okay. Det skal vi først lige kigge på så.
 
 00:31:13,955 --> 00:31:16,115
-Speaker 3: Jeg har I hvert fald lidt mere lige nu.
+Zafir: Jeg har I hvert fald lidt mere lige nu.
 
 00:31:16,115 --> 00:31:19,795
 Mads: Det tror jeg, du var det. Det var meget givende. Det var guld værd.
 
 00:31:19,795 --> 00:31:20,995
-Speaker 3: Det var faktisk virkelig
+Zafir: Det var faktisk virkelig
 
 00:31:20,995 --> 00:31:23,155
 Mads: guld værd. Det er en helt anden retning, vi lige havde forestillet os.
@@ -1259,7 +1244,7 @@ Mads: guld værd. Det er en helt anden retning, vi lige havde forestillet os.
 Det er faktisk ret fedt. Det er Det er
 
 00:31:28,049 --> 00:31:29,429
-Speaker 3: lige at få svar på det.
+Zafir: lige at få svar på det.
 
 00:31:30,210 --> 00:31:31,190
 Mads: Ja, hundred procent.
@@ -1271,7 +1256,7 @@ Linda: Kunne jeg til at hjælpe? Helt bestemt.
 Så ville vi spise bol til resten af tiden.
 
 00:31:40,529 --> 00:31:43,335
-Speaker 3: Er der forskel på, om de er pink eller blå? Overhovedet ikke.
+Zafir: Er der forskel på, om de er pink eller blå? Overhovedet ikke.
 
 00:31:43,335 --> 00:31:44,794
 Nej, det er bare den samme derinde.
