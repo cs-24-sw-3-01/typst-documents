@@ -8,8 +8,13 @@
 #figure(image("../assets/rich_picture.png"), caption: [Rich Picture of KMD Absenceplanner])
 
 #pagebreak()
+//explain the main purposeof the current workflow( i.e. the end result)
 
 
+
+//explain the work flow 
+
+//explain possible limitations of the work flow. 
 
 == Classes and Events in Software Development
 In object-oriented software development, classes and events are two fundamental concepts that help model real-world systems and behaviors. Understanding these concepts is essential for designing a robust and scalable solution, such as the "KMD Absence Planner".
