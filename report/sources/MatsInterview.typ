@@ -1,490 +1,498 @@
-00:02 - 00:04
-Er du klar på en masse spørgsmål?
+00:00:02,960 --> 00:00:04,580
+Marc: Er du klar på en masse spørgsmål?
 
-00:05 - 00:06
-Så klar!
+00:00:05,839 --> 00:00:06,660
+Mats: Så klar!
 
-00:07 - 00:10
-Skal vi ikke bare starte med mindre du har noget?
+00:00:07,919 --> 00:00:10,900
+Marc: Skal vi ikke bare starte med mindre du har noget?
 
-00:11 - 00:13
-Kommer der flere på eller er det kun mig?
+00:00:11,599 --> 00:00:13,540
+Mats: Kommer der flere på eller er det kun mig?
 
-00:14 - 00:19
-Vi deler op I tre grupper, så vi tager dig og så de andre snakker med nogle af de andre lige nu.
+00:00:14,965 --> 00:00:19,705
+Marc: Vi deler op I tre grupper, så vi tager dig og så de andre snakker med nogle af de andre lige nu.
 
-00:19 - 00:28
-Lad os starte med det første spørgsmål.
+00:00:19,765 --> 00:00:20,265
+Mats: Lad
 
+00:00:26,725 --> 00:00:28,265
+Marc: os starte med det første spørgsmål.
 
-00:30 - 00:36
+00:00:30,940 --> 00:00:36,380
 Er der nogle generelle problemer, I oplever, hvad den nuværende ferieplan? Er det f. Eks.
 
-00:36 - 00:38
+00:00:36,380 --> 00:00:38,879
 Brugergrænsefladen eller et eller andet, I tænker? Nej,
 
-00:40 - 00:41
-det er ikke fordi
+00:00:40,140 --> 00:00:41,680
+Mats: det er ikke fordi
 
-00:44 - 00:51
+00:00:44,895 --> 00:00:51,475
 det er et gammelt produkt og det er mere det ældre brugere, som har brugt det fra starten.
 
-00:53 - 00:56
+00:00:53,135 --> 00:00:56,355
 Så ikke nogen problemer, som jeg har hørt nej.
 
-01:02 - 01:04
-Hvordan er adgangen til produktet?
+00:01:02,309 --> 00:01:04,170
+Marc: Hvordan er adgangen til produktet?
 
-01:05 - 01:07
+00:01:05,190 --> 00:01:07,350
 Kan man være derhjemme og have adgang til det?
 
-01:07 - 01:08
+00:01:07,350 --> 00:01:08,970
 Eller skal man være på samme netværk?
 
-01:09 - 01:11
-Du skal være på VPN.
+00:01:09,670 --> 00:01:11,050
+Mats: Du skal være på VPN.
 
-01:12 - 01:15
+00:01:12,310 --> 00:01:15,345
 Så hvis du ikke har været på VPN, kan du ikke komme på.
 
-01:15 - 01:18
-Okay, og det er vigtigt, at det er sådan det er.
+00:01:15,645 --> 00:01:18,065
+Marc: Okay, og det er vigtigt, at det er sådan det er.
 
-01:20 - 01:26
-Det er bare for at beskytte applikationen, så den er ikke tilgængeligt udefra. Det
+00:01:20,845 --> 00:01:26,545
+Mats: Det er bare for at beskytte applikationen, så den er ikke tilgængeligt udefra. Det
 
-01:26 - 01:31
-Giver god mening. I siger til, hvis I kan få noget I gang.
+00:01:26,880 --> 00:01:31,380
+Marc: Giver god mening. I siger til, hvis I kan få noget I gang.
 
-01:31 - 01:33
+00:01:31,600 --> 00:01:33,460
 Der går meget hurtigt med at skrive.
 
-01:36 - 01:38
-Er der en hurtig svar?
+00:01:36,240 --> 00:01:37,939
+Mats: Er der en hurtig svar?
 
-01:38 - 01:39
-Hvad for noget?
+00:01:38,975 --> 00:01:39,875
+Marc: Hvad for noget?
 
-01:40 - 01:41
-Nej, nej, ikke nej.
+00:01:40,215 --> 00:01:41,695
+Mats: Nej, nej, ikke nej.
 
-01:41 - 01:43
-Av nej, det er nogle fine svar.
+00:01:41,695 --> 00:01:43,954
+Marc: Av nej, det er nogle fine svar.
 
-01:47 - 01:50
+00:01:47,134 --> 00:01:50,435
 Fx da du startede, hvordan var du det ved Candeno?
 
-01:51 - 01:52
-Næsten ti år.
+00:01:51,790 --> 00:01:52,850
+Mats: Næsten ti år.
 
-01:52 - 01:55
-Næsten ti år. Var alle flere planlæglingerne der også dengang?
+00:01:52,910 --> 00:01:55,570
+Marc: Næsten ti år. Var alle flere planlæglingerne der også dengang?
 
-01:56 - 01:59
-Det var den. Det var det I to tusinde fjorten.
+00:01:56,430 --> 00:01:59,330
+Mats: Det var den. Det var det I to tusinde fjorten.
 
-02:04 - 02:08
+00:02:04,625 --> 00:02:08,885
 Vel. Det er ikke en applikation, jeg bruger rigtigt til noget. Jeg bruger ikke.
 
-02:10 - 02:12
+00:02:10,224 --> 00:02:12,965
 Så det er ikke alle brugere, der bruger. Nogle
 
-02:15 - 02:25
+00:02:15,504 --> 00:02:25,490
 som har brugt, når de planlægger men jeg vil sige, at de fleste brugere, tror jeg ikke bruge dem.
 
-02:26 - 02:31
-Synes du, det var intuitivt første gang indtrykket af flere planlæger?
+00:02:26,990 --> 00:02:31,754
+Marc: Synes du, det var intuitivt første gang indtrykket af af flere planlæger?
 
-02:32 - 02:34
-Ja, den er meget simpel.
+00:02:32,614 --> 00:02:34,555
+Mats: Ja, den er jo meget simpel.
 
-02:34 - 02:47
-Du kan gå tabt I applikationen, så ja, jeg synes, den er okay og brugervenlig til det, man kan. Det synes jeg.
+00:02:34,775 --> 00:02:47,660
+Du kan gå tabt I applikationen, så ja, jeg synes den er okay og brugervenlig til det, man kan. Det synes jeg.
 
-02:50 - 02:55
+00:02:50,920 --> 00:02:55,500
 Det er ikke så mange ting, man kan lægge forkert ind på.
 
-02:56 - 02:58
+00:02:56,440 --> 00:02:58,300
 Du kan ikke lave så meget I den.
 
-02:58 - 03:00
-Ja, den er jo
+00:02:58,905 --> 00:03:00,045
+Marc: Ja, den er jo
 
-03:01 - 03:03
-supersimpel. Så
+00:03:01,705 --> 00:03:03,785
+Mats: supersimpel. Så
 
-03:03 - 03:05
-er det skidt, hvis man ikke finder den intuitive.
+00:03:03,785 --> 00:03:05,645
+Marc: er det skidt, hvis man ikke finder den intuitive.
 
-03:11 - 03:17
+00:03:11,880 --> 00:03:17,900
 Skal man have mulighed for at kunne beskrive mere detaljeret omkring de forskellige ferieårsager?
 
-03:18 - 03:19
+00:03:18,360 --> 00:03:19,980
 Eller hvis man kan kontaktes?
 
-03:20 - 03:21
+00:03:20,440 --> 00:03:21,980
 Skal der være en dybere funktioner?
 
-03:23 - 03:28
-Altså, det findes jo vi har forskellige appSense-koder,
+00:03:23,275 --> 00:03:28,175
+Mats: Altså, det findes jo vi har forskellige appSense-koder,
 
-03:31 - 03:35
+00:03:31,675 --> 00:03:35,375
 og som den nu lad man lige hurtigt tjekke en gang
 
-03:44 - 03:48
+00:03:44,830 --> 00:03:48,130
 Nu kan du ikke sige hvis du er bare en syg.
 
-03:50 - 03:55
+00:03:50,270 --> 00:03:55,385
 Nu siger du bare at du har fri. Og jeg tænkte
 
-03:59 - 04:05
+00:03:59,444 --> 00:04:05,471
 det ville måske være rart, hvis man kunne, men nej, jeg ved ikke.
 
-04:05 - 04:07
-Det er ikke vigtigt, men det kunne være lækkert.
+00:04:05,471 --> 00:04:07,705
+Marc: Det er ikke vigtigt, men det kunne være lækkert.
 
-04:09 - 04:16
-Det kunne være smart at sige: Acin, nu er jeg faktisk syg, nu har jeg ferier.
+00:04:09,060 --> 00:04:16,440
+Mats: Det kunne være smart at sige: Acin, nu er jeg faktisk syg, nu har jeg ferier.
 
-04:16 - 04:17
-Ja.
+00:04:16,980 --> 00:04:17,480
+Marc: Ja.
 
-04:31 - 04:34
+00:04:31,414 --> 00:04:34,155
 Hvordan fungerer sådan en workoad I forhold til at ønske fri?
 
-04:34 - 04:40
+00:04:34,215 --> 00:04:40,050
 Er der nogen, der skal godkendes det, eller er der bare fuldtid til, at det er ordnet?
 
-04:40 - 04:47
-Ja, vi registrerer jo vores SAP med vores masteretter.
+00:04:40,350 --> 00:04:47,729
+Mats: Ja, vi registrerer jo vores SAP med vores masteretter.
 
-04:49 - 04:54
+00:04:49,710 --> 00:04:54,935
 Så hvis du skal ind og registrere din ferie, så går det ind og sab og registrerer den.
 
-04:55 - 04:59
+00:04:55,475 --> 00:04:59,735
 Og som tidligere var det en integration mellem Zapp og ferieplan.
 
-04:59 - 05:05
+00:04:59,795 --> 00:05:05,975
 Det er ikke mere, den har vi stillet, fordi vi har skiftet on-prem-app til Cloud-app.
 
-05:06 - 05:09
+00:05:06,900 --> 00:05:09,080
 Der kunne du ikke lave det der integration.
 
-05:12 - 05:20
+00:05:12,900 --> 00:05:20,200
 Så den her VOCation plan-applikation er mere bare Du skal ikke kunne 'propro'?
 
-05:20 - 05:21
+00:05:20,420 --> 00:05:21,700
 Det er ikke nogen, der skal 'propro'?
 
-05:21 - 05:23
+00:05:21,700 --> 00:05:23,635
 Du taster nogle appssens inde.
 
-05:23 - 05:28
+00:05:23,635 --> 00:05:28,775
 Det er bare: Før dit team, at holde styr på hvem er frie hvornår.
 
-05:29 - 05:36
+00:05:29,395 --> 00:05:36,435
 Fordi jeg kan ikke kigge på mit team I Zapp og sige: Hvornår har de fri?
 
-05:36 - 05:37
+00:05:36,435 --> 00:05:37,735
 Det kan jeg ikke se.
 
-05:38 - 05:45
+00:05:38,890 --> 00:05:45,550
 Så det er mere bare for at holde kollegaerne I det team op til dels hvornår folk er fri.
 
-05:45 - 05:48
+00:05:45,850 --> 00:05:48,270
 Så ikke nogen af controlleren. Nej.
 
-05:51 - 06:00
+00:05:51,764 --> 00:06:00,905
 Så det er bare at oplyse information for dem I dit team. Ikke noget approach.
 
-06:12 - 06:17
-Oplever I nogle gange, at der er fejl, når I opretter ferie?
+00:06:12,690 --> 00:06:17,030
+Marc: Oplever I nogle gange, at der er fejl, når I opretter ferie?
 
-06:17 - 06:19
+00:06:17,170 --> 00:06:19,945
 Er der sådan nogle klassiske fejl, man kan lave?
 
-06:21 - 06:26
-Det har nogle fejl, men det her med var synkron mellem Zapp og medarbejderne.
+00:06:21,045 --> 00:06:26,505
+Mats: Det har nogle fejl, men det her med var synkron mellem Zapp og medarbejderne.
 
-06:27 - 06:34
+00:06:27,445 --> 00:06:34,639
 Som det nu får vi et load hver inderste dag som siger, hvad er det for nogle medarbejdere, der
 
-06:34 - 06:36
+00:06:34,639 --> 00:06:36,820
 har til hvad for nogle afdelinger?
 
-06:37 - 06:42
+00:06:37,520 --> 00:06:42,740
 Og den har nogle gange noget fejl I dem.
 
-06:42 - 06:45
-Så det er ikke brugerfejl I systemet? Ja, det er
+00:06:42,880 --> 00:06:45,040
+Marc: Så det er ikke brugerfejl I systemet? Ja, det er
 
-06:45 - 06:45
-det ikke brugerfejl.
+00:06:45,040 --> 00:06:45,780
+Mats: det ikke brugerfejl.
 
-06:58 - 07:00
-Det giver vel heller ikke mening at få det?
+00:06:58,075 --> 00:07:00,015
+Marc: Det giver vel heller ikke mening at få det?
 
-07:00 - 07:02
+00:07:00,715 --> 00:07:02,975
 Nej, det har jeg lige svaret på.
 
-07:07 - 07:09
+00:07:07,570 --> 00:07:09,490
 Hvad kan du bedst lide, hvad den nuværende fjerde planlægger?
 
-07:09 - 07:11
+00:07:09,490 --> 00:07:11,670
 Er der et eller andet, hvor du tænker, det fungerer?
 
-07:11 - 07:13
-Det er nok, fordi den er så simpelt.
+00:07:11,730 --> 00:07:13,510
+Mats: Det er nok, fordi den er så simpelt.
 
-07:14 - 07:22
+00:07:14,130 --> 00:07:22,745
 Du kom ind på den, du ser dit default, det team, du hører sammen med Og så er det ikke meget
 
-07:22 - 07:28
+00:07:22,745 --> 00:07:28,205
 simpelt opbygget, at du vil få information, du har brug før, hurtigt.
 
-07:34 - 07:39
+00:07:34,909 --> 00:07:39,490
 Du skal ikke ende en masse omvej for at finde det information, du har brug for.
 
-07:40 - 07:43
+00:07:40,590 --> 00:07:43,090
 Du får information, du leder efter lige med en gang.
 
-07:44 - 07:45
+00:07:44,030 --> 00:07:45,729
 Så brugervenlig, kan man nok sige.
 
-07:53 - 07:58
-Er der nogle funktioner eller noget, som I finder overflød I I den nuværende ferieplan?
+00:07:53,725 --> 00:07:58,385
+Marc: Er der nogle funktioner eller noget, som I finder overflød I I den nuværende ferieplan?
 
-08:00 - 08:02
-Nej, det tror jeg ikke.
+00:08:00,940 --> 00:08:02,240
+Mats: Nej, det tror jeg ikke.
 
-08:02 - 08:04
+00:08:02,540 --> 00:08:04,000
 Det kan jeg ikke så meget.
 
-08:04 - 08:08
+00:08:04,700 --> 00:08:08,480
 Det inderste man kan I applikationen er tilføj lidt,
 
-08:11 - 08:18
+00:08:11,180 --> 00:08:18,775
 aftager sig når du har ferie og så kan du kigge på nogle andre I dit team eller oprette en ny teams.
 
-08:19 - 08:21
+00:08:19,955 --> 00:08:21,575
 Så jeg tænker det er rigeligt.
 
-08:21 - 08:23
+00:08:21,795 --> 00:08:23,575
 Jeg tror ikke, at det savner noget.
 
-08:25 - 08:28
+00:08:25,555 --> 00:08:28,695
 Nu har jeg ikke supermarked kontakt til slutbrugeren.
 
-08:29 - 08:31
+00:08:29,075 --> 00:08:31,655
 Hvad synes de andre om applikationen?
 
-08:34 - 08:37
+00:08:34,220 --> 00:08:37,120
 Så jeg ved ikke rigtigt, hvis de har nogle nye ønsker.
 
-08:54 - 08:56
-Du siger, du bruger ikke så meget flere blandlinger.
+00:08:54,945 --> 00:08:56,885
+Marc: Du siger, du bruger ikke så meget flere blandlinger.
 
-08:57 - 09:00
+00:08:57,185 --> 00:09:00,800
 Hvad bruger du foretrækker du?
 
-09:01 - 09:08
-Vi har jo Scrumums. Hver inderste dag har vi en del standard, hvor folk fortæller, hvad de skal
+00:09:01,740 --> 00:09:08,220
+Mats: Vi har jo Scrumums. Hver inderste dag har vi en del standard, hvor folk fortæller, hvad de skal
 
-09:08 - 09:10
+00:09:08,220 --> 00:09:10,080
 lave og også hvis de holder fri.
 
-09:13 - 09:14
+00:09:13,595 --> 00:09:14,095
 Informationen
 
-09:17 - 09:18
-kommer flydende.
+00:09:17,274 --> 00:09:18,095
+Marc: kommer flydende.
 
-09:18 - 09:19
-Den kommer flydende.
+00:09:18,154 --> 00:09:19,295
+Mats: Den kommer flydende.
 
-09:22 - 09:24
+00:09:22,555 --> 00:09:24,014
 Jeg vil måske bruge den I fremtiden.
 
-09:24 - 09:26
+00:09:24,274 --> 00:09:26,175
 Jeg skal lave den ting.
 
-09:27 - 09:30
+00:09:27,220 --> 00:09:30,680
 Der har jeg brug for den person, at han ikke kan lære ham på arbejde.
 
-09:32 - 09:34
+00:09:32,980 --> 00:09:34,680
 Og igen, har vi et team?
 
-09:34 - 09:37
+00:09:34,980 --> 00:09:37,480
 Vores team I MODW Work Place
 
-09:40 - 09:42
+00:09:40,035 --> 00:09:42,115
 er ikke fordi vi overlapper så meget.
 
-09:42 - 09:45
+00:09:42,115 --> 00:09:45,155
 Vi har vores specifikke opgave vi laver.
 
-09:45 - 09:54
+00:09:45,155 --> 00:09:54,769
 Så hvis to personer I mit team holder ferie, det betyder ikke så meget, fordi vi er rimelig selvkørende allesammen.
 
-09:55 - 09:58
+00:09:55,390 --> 00:09:58,690
 Så det betyder ikke så meget, hvis man er på ferie.
 
-10:01 - 10:07
+00:10:01,709 --> 00:10:07,995
 Så vores team er et dårligt eksempel I forhold til hvordan jeg bruger det I hvert fald.
 
-10:09 - 10:13
+00:10:09,355 --> 00:10:13,214
 Så jeg bruger det ikke særlig meget, fordi informationerne er der I forvejen.
 
-10:20 - 10:24
-Er der nogle funktioner, som godt kunne tænke dig I dit nye produkt?
+00:10:20,340 --> 00:10:24,200
+Marc: Er der nogle funktioner, som godt kunne tænke dig I dit nye produkt?
 
-10:24 - 10:28
+00:10:24,260 --> 00:10:28,360
 Er der noget, du tænker kunne være fed?
 
-10:38 - 10:42
-Nej, man kan jo ikke se helligdag.
+00:10:38,415 --> 00:10:42,995
+Mats: Nej, man kan jo ikke se helligdag.
 
-10:44 - 10:48
+00:10:44,575 --> 00:10:48,755
 Hvis det er en polsk helligdag, så kan man se den, man kan også se de danske helligdage.
 
-10:50 - 10:56
+00:10:50,790 --> 00:10:56,089
 Så jeg tænkte ikke, er det andet, jeg kunne tænke mig?
 
-10:58 - 10:59
-Det er de to primære nationaliteter.
+00:10:58,070 --> 00:10:59,690
+Marc: Det er de to primære nationaliteter.
 
-11:04 - 11:11
-Ja, det er det. Så du kan se, at det er lokale Helle, også fordi andre er I det team, hvis de
+00:11:04,165 --> 00:11:11,205
+Mats: Ja, det er det. Så du kan se, at det er lokale Helle, også fordi andre er I det team, hvis de
 
-11:11 - 11:12
+00:11:11,205 --> 00:11:12,665
 kommer fra et andet land.
 
-11:14 - 11:19
+00:11:14,730 --> 00:11:19,790
 Så nej, jeg tror ikke Jeg har I hvert fald ikke brug for hinanden end det her.
 
-11:23 - 11:25
-Det er I hvert fald meget relevant til.
+00:11:23,610 --> 00:11:23,850
+Det er
 
-11:34 - 11:36
+00:11:23,850 --> 00:11:25,230
+Marc: I hvert fald meget relevant til.
+
+00:11:34,155 --> 00:11:36,735
 Hvad foretrækker I platformen? Er det vigtigt, at det er en webløsning?
 
-11:36 - 11:39
+00:11:36,835 --> 00:11:39,615
 Er det fint med kun mobil eller kun computer?
 
-11:43 - 11:48
-I? Jeg vil nok sige, at det fleste bruger jeg nok Webamp, når de sidder på arbejde.
+00:11:43,320 --> 00:11:48,840
+Mats: I? Jeg vil nok sige, at det fleste bruger jeg nok Webamp, når de sidder på arbejde.
 
-11:48 - 11:54
-Det ville også være rart, at du kunne bruge den på måske ikke en app.
+00:11:48,840 --> 00:11:51,100
+Det ville også være rart, at du kunne bruge den på
 
-11:54 - 11:56
-Det tænkte jeg, det er lidt overkill.
+00:11:53,560 --> 00:11:55,240
+Marc: måske ikke en app. Det tænkte jeg,
 
-11:57 - 11:59
-Men kunne bruge det på en Mobile device.
+00:11:55,240 --> 00:11:59,815
+Mats: det er lidt overkill. Men kunne bruge det på en Mobile device.
 
-12:01 - 12:05
-Så det har du også optimeret til det? Ja.
+00:12:01,074 --> 00:12:05,014
+Marc: Så det har du også optimeret til det? Ja.
 
-12:05 - 12:09
-Men en app, det tænkte jeg, så meget, tror jeg ikke, dem bliver brugt, at der skal bruge en app til?
+00:12:05,074 --> 00:12:07,394
+Men en app, det tænkte jeg, så meget, tror jeg ikke, dem
 
-12:09 - 12:17
-Nej, det tror da ikke, vi kommer til. Det er perfekt.
+00:12:07,394 --> 00:12:09,334
+Mats: bliver brugt, at der skal bruge en app til?
 
-12:17 - 12:20
+00:12:09,555 --> 00:12:17,140
+Marc: Nej, det tror da ikke, vi kommer til. Det er perfekt.
+
+00:12:17,140 --> 00:12:20,120
 Lige sådan til sidst, er der noget, vi kan være inde på?
 
-12:28 - 12:41
-Nej. Ikke rigtigt. Men igen, hvis I har løbende spørgsmål, så skal I have jer velkomne til at kontakte mig.
+00:12:28,795 --> 00:12:41,180
+Mats: Nej. Ikke rigtigt. Men igen, hvis I har løbende spørgsmål, så skal I have jer velkomne til at kontakte mig.
 
-12:41 - 12:43
+00:12:41,320 --> 00:12:43,340
 Hvad er det jeres slutprodukt?
 
-12:43 - 12:55
+00:12:43,640 --> 00:12:55,785
 Er det en funktionel applikation? Hvad er jeres slut? Slut I slutmålet?
 
-12:57 - 13:01
-For os: At lave en webapplikationer, som kan bruge at mose.
+00:12:57,204 --> 00:13:01,045
+Marc: For os: At lave en webapplikationer, som kan bruge at mose.
 
-13:01 - 13:02
+00:13:01,045 --> 00:13:02,105
 Det er det her målet.
 
-13:02 - 13:05
+00:13:02,565 --> 00:13:05,464
 Det står I vores curikulum.
 
-13:07 - 13:14
+00:13:07,370 --> 00:13:14,089
 Ellers har vi ikke bestemt. Det går vi efter. Hvad er
 
-13:14 - 13:16
-det for en uddannelse I Lasse?
+00:13:14,089 --> 00:13:16,110
+Mats: det for en uddannelse I Lasse?
 
-13:16 - 13:19
-Det er så for jer. Jeg læser til softwareingeniør.
+00:13:16,570 --> 00:13:19,310
+Marc: Det er så for jer. Jeg læser til softwareingeniør.
 
-13:23 - 13:27
-Hvor lang er det en kode, og hvor lang er uddannelsen tre-fem år?
+00:13:23,035 --> 00:13:27,695
+Mats: Hvor lang er det en kode, og hvor lang er uddannelsen tre-fem år?
 
-13:28 - 13:31
-Jamen bachelor er så kandidat efterfølgende. Hvor
+00:13:28,395 --> 00:13:31,295
+Marc: Jamen bachelor er så kandidat efterfølgende. Hvor
 
-13:33 - 13:34
-langt er I henne nu?
+00:13:33,275 --> 00:13:34,415
+Mats: langt er I henne nu?
 
-13:34 - 13:36
-Vi er halvandet år inden tredje semester.
+00:13:34,955 --> 00:13:36,975
+Marc: Vi er halvandet år inden tredje semester.
 
-13:38 - 13:39
+00:13:38,170 --> 00:13:39,389
 Vi er halvvejs med bacheloren.
 
-13:41 - 13:45
+00:13:41,930 --> 00:13:45,209
 Jeg tror, det bliver godt. Spændende.
 
-13:45 - 13:48
+00:13:45,209 --> 00:13:48,269
 Du var egentlig meget hurtig til at svare på det hele.
 
-13:48 - 13:50
+00:13:48,970 --> 00:13:50,589
 Vi har faktisk ikke så meget mere.
 
-13:51 - 13:51
-Det er fint.
+00:13:51,050 --> 00:13:51,790
+Mats: Det er fint.
 
-13:54 - 13:55
-Vi vil egentlig bare sige tak for din tid.
+00:13:54,455 --> 00:13:55,975
+Marc: Vi vil egentlig bare sige tak for din tid.
 
-13:55 - 14:01
-Jeg håber, at det gav nogle ting, I kan overveje. Vi har
+00:13:55,975 --> 00:14:01,415
+Mats: Jeg håber, at det gav nogle ting, I kan overveje. Vi har
 
-14:01 - 14:02
-nu at arbejde med, så det er lækkert.
+00:14:01,415 --> 00:14:02,775
+Marc: nu at arbejde med, så det er lækkert.
 
-14:02 - 14:05
+00:14:02,775 --> 00:14:05,195
 Der kommer helt sikkert en masse spørgsmål senere.
 
-14:07 - 14:07
-Jeg kan
+00:14:07,060 --> 00:14:07,220
+Mats: Jeg kan
 
-14:07 - 14:09
-godt trække på mails eller videoopgaver lige
+00:14:07,220 --> 00:14:09,960
+Marc: godt trække på mails eller videoopgaver lige
 
-14:11 - 14:12
-meget. Det er lige meget.
+00:14:11,540 --> 00:14:12,260
+Mats: meget. Det er lige meget.
 
-14:12 - 14:17
+00:14:12,260 --> 00:14:17,800
 Det kræver videoopgaver, det er måske nemmere, så kan man klare nogle ting eller vise nogle ting.
 
-14:18 - 14:22
+00:14:18,420 --> 00:14:22,154
 E-mails tager det typisk nogle gange lang tid.
 
-14:22 - 14:23
+00:14:22,154 --> 00:14:23,375
 Så vidt opkald er fint.
 
-14:25 - 14:26
-Du høre fra os, hvis der er mere.
+00:14:25,195 --> 00:14:26,894
+Marc: Du høre fra os, hvis der er mere.
 
-14:26 - 14:28
-Det kan godt. Held og lykke.
+00:14:26,954 --> 00:14:28,815
+Mats: Det kan godt. Held og lykke.
 
-14:29 - 14:30
-Tak for nu.
+00:14:29,755 --> 00:14:30,575
+Marc: Tak for nu.
 
