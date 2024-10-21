@@ -1,5 +1,6 @@
 #import "../custom.typ": *
 
+
 00:00:04,960 --> 00:00:10,099
 Mads: Men når I opretter teams I dag og skal tilføje medarbejdere, jeg kan ikke huske, hvad det er en søgefunktion.
 
@@ -1274,4 +1275,3 @@ Speaker 3: Er der forskel på, om de er pink eller blå? Overhovedet ikke.
 
 00:31:43,335 --> 00:31:44,794
 Nej, det er bare den samme derinde.
-
