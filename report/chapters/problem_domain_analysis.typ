@@ -3,7 +3,10 @@
 #import table: cell, header
 
 = Problem Domain Analysis
+== Rich Picture
+To effectively develop the necessary system, it is essential to have a clear understanding of the task that will be encountered by the system. One useful approach is to create a rich picture, which is a visual representation that should help get a better understanding of the task. A rich picture is a diagram using simple symbols and illustrations. The connections between these elements help to provide a detailed and comprehensive overview, covering both the problem and application domains of the system. @SUBook
 
+A rich picture of the absenceplanner for KMD will look like this:
 
 #figure(image("../assets/rich_picture.png"), caption: [Rich Picture of KMD Absenceplanner])
 
