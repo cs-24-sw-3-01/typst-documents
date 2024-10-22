@@ -105,17 +105,17 @@ After several iterations and refinements, the following event table was develope
     
   [*Events*], colspanx(6)[*Classes*],
   [], [Employee], [Absence], [Team], [Department], [Calendar], [Holiday],
-  [Absence Entry], [y], [y], [n], [n], [y], [n],
-  [Absence Update], [y], [y], [n], [n], [y], [n],
-  [Absence Cancellation], [y], [y], [n], [n], [y], [n],
-  [Team Creation], [y], [n], [p], [y], [y], [n],
-  [Team Update], [y], [n], [y], [y], [y], [n],
-  [Team Deletion], [y], [n], [p], [y], [y], [n],
-  [Employee Creation], [y], [n], [y], [y], [n], [n],
-  [Employee Profile Update], [y], [n], [n], [y], [n], [n],
-  [Employee Deletion], [y], [y], [y], [y], [y], [n],
-  [Calendar View Update], [y], [y], [s], [y], [y], [y],
-  [Holiday Addition], [n], [n], [n], [n], [y], [y],
+  [Absence Entry], [s], [s], [n], [n], [s], [n],
+  [Absence Update], [s], [s], [n], [n], [s], [n],
+  [Absence Cancellation], [s], [s], [n], [n], [s], [n],
+  [Team Creation], [s], [n], [p], [s], [s], [n],
+  [Team Update], [s], [n], [s], [s], [s], [n],
+  [Team Deletion], [s], [n], [p], [s], [s], [n],
+  [Employee Creation], [p], [n], [n], [s], [n], [n],
+  [Employee Profile Update], [s], [n], [n], [s], [n], [n],
+  [Employee Deletion], [p], [s], [s], [s], [s], [n],
+  [Calendar View Update], [s], [s], [s], [s], [s], [s],
+  [Holiday Addition], [n], [n], [n], [n], [s], [s],
   ),
   caption: [Event table]
 ) <table:competitors>
@@ -191,7 +191,7 @@ After several iterations and refinements, the following event table was develope
 // 
 // Employee: Yes (A new employee is added).
 // Absence: No.
-// Team: Yes (The employee may be assigned to a team).
+// Team: No.
 // Department: Yes (The employee may be assigned to a department).
 // Calendar: No.
 // Holiday: No.
