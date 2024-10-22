@@ -119,7 +119,7 @@ After several iterations and refinements, the following event table was develope
   caption: [The final event table for the Absence planner]
 ) <table:competitors>
 ]
-@table:competitors shows the relationship between the classes and the events. it shows both which classes use / are affected the different events and vice versa. An example of this would be the Employee that can make and Absence entry, that affects both the employee class but also the Absence and Caldendar classes. 
+@table:competitors shows the relationship between the classes and the events. it shows both which classes use / are affected the different events and vice versa. An example of this would be the Employee that can make and Absence entry, that affects both the employee class but also the Absence and Caldendar classes. The stars in @table:competitors means that the event can affect the class multiple times, and the plus means that it can only affect the class once, this does not necessarily mean it has to. 
 
 // ******************************************************************************************************** // 
 // ******************************************************************************************************** //
