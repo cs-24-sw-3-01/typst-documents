@@ -9,13 +9,20 @@
 
 #pagebreak()
 //explain the main purposeof the current workflow( i.e. the end result)
-for each project in KMD, a team is created to handle it this can employees from different departments.Each team member will have vacation days that can be registerede in 3 different places: SAP, outlook and the KMD vacation planner. The prefered vacation registartion place is decided by the individual teams/departments therefore there are different scenarioes of how the registration of vacation takes place. 
+for each project in KMD, a team is created to handle it. The teams can consist of employees from different departments and each team member will have vacation days that can be registerede in 3 different places: SAP, outlook and the KMD vacation planner. The prefered vacation registartion place is decided by the individual teams/departments therefore there are different scenarioes of how the registration of vacation takes place. 
 
 registartion of vacation in SAP. 
-all employees have to register their vacation in SAP. This vacation is accepted by the their manager. The employees vacation can only be viewed internally in the different departments.  
+all employees have to register their vacation in SAP. This vacation is accepted by their manager. The employees vacation can only be viewed internally in the departments. #todo[can it actually be viewed by the employees in the deparment]
 
 registartion of vacation in outlook. 
-when vacation is registered in SAP an invite is send to Outlook to accept the vacation. When the vacation is accepted it can be vieved in the individual employees outlook calandar. A limitation is that the employee has to remember to accept the invite in outlook and 
+when vacation is registered in SAP an invite is send to Outlook the employee has to accept the invitation to add the vacation into the outlook calander. When the vacation is accepted it can be viewed in the individual employees outlook calandar. A limitation is that the employee has to remember to accept the invite in outlook and the employees can only view the ansence of the workers in their departments and not the individual teams created across departments 
+
+The KMD vacation planner
+The KMD vacation planner used to be hooked up on SAP such that the planned vacation in SAP would outomatically be integrated into the KMD calander. Though the employee can still enter their own vacation directly in the vacation planner. Here the employee can view the individual employees vacation and also the vacation plan for different teams. The limitation is that the KMD kalander does not not work with SAP and therefor they cannot view their SAP vacation or manually enter the vacation. 
+
+
+
+
 
 
 //explain the work flow 
