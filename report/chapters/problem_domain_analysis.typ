@@ -3,7 +3,10 @@
 #import table: cell, header
 
 = Problem Domain Analysis
+== Rich Picture
+To effectively develop the necessary system, it is essential to have a clear understanding of the task that will be encountered by the system. One useful approach is to create a rich picture, which is a visual representation that should help get a better understanding of the task. A rich picture is a diagram using simple symbols and illustrations. The connections between these elements help to provide a detailed and comprehensive overview, covering both the problem and application domains of the system. @SUBook
 
+A rich picture of the absenceplanner for KMD will look like this:
 
 #figure(image("../assets/rich_picture.png"), caption: [Rich Picture of KMD Absenceplanner])
 
@@ -15,7 +18,7 @@
 In object-oriented software development, classes and events are two fundamental concepts that help model real-world systems and behaviors. Understanding these concepts is essential for designing a robust and scalable solution, such as the "KMD Absence Planner".
 
 === Classes
-A class is a blueprint for creating objects in a software system. Each class represents an abstraction of a concept or entity in the real world, encapsulating both data (attributes) and behaviors (methods) associated with that concept. Classes allow us to organize and manage the complexity of the system by categorizing related elements and their functionalities.
+A class is a blueprint for creating objects in a software system. Each class represents an abstraction of a concept or entity in the real world, encapsulating both data (attributes) and behaviors (methods) associated with that concept. Classes allow us to organize and manage the complexity of the system by categorizing related elements and their functionalities.@SUBook
 
 For instance, in the KMD Absence Planner, classes like _Employee_, _Team_, and _Absence_ represent key entities within the system:
 
@@ -25,7 +28,7 @@ For instance, in the KMD Absence Planner, classes like _Employee_, _Team_, and _
 Defining classes models how various entities interact within the system, enabling the creation of objects (instances of classes) that represent real-life concepts, such as an individual employee or a specific absence event.
 
 === Events
-An event refers to an occurrence or action that triggers certain behaviors in the system. Events define the dynamic nature of a system, representing interactions between different objects or responses to changes in state. In event-driven systems, events play a crucial role in defining how the system reacts to user inputs.
+An event refers to an occurrence or action that triggers certain behaviors in the system. Events define the dynamic nature of a system, representing interactions between different objects or responses to changes in state. In event-driven systems, events play a crucial role in defining how the system reacts to user inputs. @SUBook
 
 For the "KMD Absence Planner", some examples of events include:
 
@@ -270,7 +273,25 @@ After several iterations and refinements, the following event table was develope
 
 - *Holiday Addition:* Happens when a new company-wide or public holiday is added to the system. The system updates all relevant calendars to reflect the holiday.
 
-== Behaviour Stucture
+
+== Stucture and Behaviour 
 @table:competitors now shows all the events and classes within the system. To get a clearer understanding of the connection between the events and classes, a behavioral pattern will be described using statecharts. A statechart will be created for each class to show the possible states and how the states changes. To achieve this, control structures such as sequence, selection, and iterations will be used.
 
 A statechart for each identified class will be made as follows:
+
+#pagebreak()
+
+=== Class Diagrams
+
+Class diagrams are a fundamental part of object-oriented modeling, used to visually represent the static structure of a system. These diagrams describe the system by illustrating its classes, their attributes, methods, and the relationships between the classes. Each class in the diagram serves as a blueprint for objects, encapsulating data (attributes) and behavior (methods).
+
+The primary purpose of a class diagram is to describe the structural relationships between the objects and classes in a problem domain. These diagrams help developers understand the system’s architecture by providing a clear overview of how different entities are organized and connected.
+
+Class diagrams are composed of several key components:
+
+- *Classes:* Represent entities or concepts within the system, such as an Employee, Team, or Department. Each class typically includes attributes (data fields) and operations (methods).
+- *Relationships:* The connections between classes, such as associations, generalizations (inheritance), or aggregations. These relationships show how the classes interact or depend on each other.
+- *Multiplicity:* Indicates how many instances of one class relate to instances of another class (e.g., one-to-many or many-to-many relationships).
+
+Class diagrams serve as a critical tool in both the analysis and design phases of system development. By organizing the system into well-defined classes and relationships, class diagrams help clarify the structure, making it easier to identify responsibilities and dependencies between entities. Additionally, they provide a visual roadmap for building and maintaining a system, ensuring consistency and coherence in the design.
+
