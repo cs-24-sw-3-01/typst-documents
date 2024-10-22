@@ -116,10 +116,11 @@ After several iterations and refinements, the following event table was develope
   [Calendar View Update], [y], [y], [y], [y], [y], [y],
   [Holiday Addition], [n], [n], [n], [n], [y], [y],
   ),
-  caption: [Event table]
+  caption: [The final event table for the Absence planner]
 ) <table:competitors>
 ]
-#todo[adde figurtekst der forklarer hvordan figuren skal læses (hvordan relaterer x og y aksen til hinanden?). - Sille]
+@table:competitors shows the relationship between the classes and the events. it shows both which classes use / are affected the different events and vice versa. An example of this would be the Employee that can make and Absence entry, that affects both the employee class but also the Absence and Caldendar classes. 
+
 // ******************************************************************************************************** // 
 // ******************************************************************************************************** //
 // *** HERE IS A DETAILED EXPLANATION OF THE REASONS BEHIND THE SELECTION OF THE VARIOUS FIELDS – MARC! *** //
@@ -275,7 +276,7 @@ After several iterations and refinements, the following event table was develope
 
 
 == Stucture and Behaviour 
-@table:competitors now shows all the events and classes within the system. To get a clearer understanding of the connection between the events and classes, a behavioral pattern will be described using statecharts. A statechart will be created for each class to show the possible states and how the states changes. To achieve this, control structures such as sequence, selection, and iterations will be used.
+@table:competitors shows all the events and classes within the system. To get a clearer understanding of the connection between the events and classes, a behavioral pattern will be described using statecharts. A statechart will be created for each class to show the possible states and how the states changes. To achieve this, control structures such as sequence, selection, and iterations will be used.
 
 A statechart for each identified class will be made as follows:
 
