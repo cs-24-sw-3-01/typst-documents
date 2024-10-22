@@ -1,6 +1,6 @@
 #import "../custom.typ": *
 
-
+== Interview with Linda <InterviewLinda>
 00:00:04,960 --> 00:00:10,099
 Mads: Men når I opretter teams I dag og skal tilføje medarbejdere, jeg kan ikke huske, hvad det er en søgefunktion.
 
