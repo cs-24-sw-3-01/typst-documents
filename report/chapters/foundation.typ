@@ -13,8 +13,8 @@ This chapther defines both the potential problems that KMD have with their curre
 The different finds in this chapter was aquired through interviews with three company employees, their lead developer, Mats Lindberg, 
 their project portfolio manager, Caroline Ramsdal and their manager of modern workplace, Dion Andersen, respectivley. 
 
-//kan ikke huske om dette er relevant 
-Transcriptions of said interviews can be found in appendix XYZ #todo[insert relevant apendices]
+Transcriptions of said interviews can be found in @InterviewLinda, @InterviewDion,  @InterviewMats and @InterviewCaroline
+
 
 To find out why KMD needs a new system for managing their holiday calender i was important to find the problems with the current solution.
 The interviews revealed problems with synchronizing with their current SAP system.
