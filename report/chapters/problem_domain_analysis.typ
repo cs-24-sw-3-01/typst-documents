@@ -15,7 +15,7 @@
 In object-oriented software development, classes and events are two fundamental concepts that help model real-world systems and behaviors. Understanding these concepts is essential for designing a robust and scalable solution, such as the "KMD Absence Planner".
 
 === Classes
-A class is a blueprint for creating objects in a software system. Each class represents an abstraction of a concept or entity in the real world, encapsulating both data (attributes) and behaviors (methods) associated with that concept. Classes allow us to organize and manage the complexity of the system by categorizing related elements and their functionalities.
+A class is a blueprint for creating objects in a software system. Each class represents an abstraction of a concept or entity in the real world, encapsulating both data (attributes) and behaviors (methods) associated with that concept. Classes allow us to organize and manage the complexity of the system by categorizing related elements and their functionalities.@SUBook
 
 For instance, in the KMD Absence Planner, classes like _Employee_, _Team_, and _Absence_ represent key entities within the system:
 
@@ -25,7 +25,7 @@ For instance, in the KMD Absence Planner, classes like _Employee_, _Team_, and _
 Defining classes models how various entities interact within the system, enabling the creation of objects (instances of classes) that represent real-life concepts, such as an individual employee or a specific absence event.
 
 === Events
-An event refers to an occurrence or action that triggers certain behaviors in the system. Events define the dynamic nature of a system, representing interactions between different objects or responses to changes in state. In event-driven systems, events play a crucial role in defining how the system reacts to user inputs.
+An event refers to an occurrence or action that triggers certain behaviors in the system. Events define the dynamic nature of a system, representing interactions between different objects or responses to changes in state. In event-driven systems, events play a crucial role in defining how the system reacts to user inputs. @SUBook
 
 For the "KMD Absence Planner", some examples of events include:
 

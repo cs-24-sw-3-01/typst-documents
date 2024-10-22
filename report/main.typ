@@ -65,5 +65,21 @@
 
 
 
-
 #bibliography("sources/sources1.bib")
+
+//mangler at vise Appendix bibliography
+
+
+#include "sources/LindaInterview.typ"
+#pagebreak(weak: true)
+
+
+#include "sources/DionInterview.typ"
+#pagebreak(weak: true)
+
+
+#include "sources/MatsInterview.typ"
+#pagebreak(weak: true)
+
+#include "sources/CarolineInterview.typ"
+#pagebreak(weak: true)
