@@ -69,7 +69,6 @@
 
 //mangler at vise Appendix bibliography
 
-/*
 
 #include "sources/LindaInterview.typ"
 #pagebreak(weak: true)
@@ -82,6 +81,5 @@
 #include "sources/MatsInterview.typ"
 #pagebreak(weak: true)
 
-*/
 
 

@@ -1,4 +1,5 @@
 #import "../custom.typ": *
+#import "../sources/DionInterview.typ"
 
 == Interview Process Overview
 The process of gathering information began by contacting KMD to arrange interviews with relevant employees. We were granted access to four individuals across different departments. Before the interviews, our team conducted a brainstorming session to generate as many relevant questions as possible. These questions were then documented and organized into a script.
@@ -47,7 +48,7 @@ By analyzing these four elements, a PACT analysis helps in designing systems tha
 
 
 === People
-The users comprise all employees of KMD. This includes employees of various roles, such as software developers, financial analysts, human relations, administrative staff, and employees of different nationalities.
+The users comprise all employees of KMD. This includes employees of various roles, such as software developers, financial analysts, human relations, administrative staff, and employees of different nationalities, mainly Danish and Polish. 
 
 These users need to be able to intuitively record their vacation days, in a simple system. 
 Furthermore they need to be able to compose teams of employees from different departments, for cross-department projects.
@@ -60,9 +61,7 @@ These users also have varying levels of technical proficiency. Therefore the sys
 The primary activities of the system, will that of recording vacations days accompanied by the vacation reason
 and being able to compose teams consisting of employees from different departments.
 
-Users will firstly log in with their company supplied Microsoft account, whereafter can
-
-either register vaction, select a team to see vacation days for, or record new vacation days.
+Users will firstly log in with their company supplied Microsoft account, whereafter they can either register vaction, select a team to see their vacation days, or record new vacation days.
 
 The system will be engaged with regularly, especically during the peak vacation periods.
 Project managers usually check it multiple times a week, to know they status of their team.
@@ -132,5 +131,5 @@ Polish and Danish holidays.
 
 == Functional and Non-Functional Requirements 
 This section describes what the system should do, organized around specific functionalities, and provides a description of the essential functions and behaviors required @functionalRequirementsJama.
-The first User Management as each employee should already be registered in the system due to the integration that we will implement with KMD's internal system. That means that each employee can already access their own calendar and make teams from the get-go—they do not need to register. This also makes sure that every employee has access to their personal calendar and its functionalities as soon as they go on the application(interview som source). Next is Vacation & Sick Day Management where users submit time off by selecting the date and type of vacation that depends on whether the employee is danish or polish. Users should also be able to modify or cancel these inserts. Another requirement is Team Creation and Management within the calendar. A user can create a team by adding a group of employees they want as team members, where the creator automatically is assigned as the team administrator. This team allows all team members to view one another’s calendars in one—even if they belong to different departments. If a team creator no longer wants to hold the administrator role, they can transfer it to another team member. Additionally, employees can belong to multiple teams at the same time, so it is not limited to one team per employee for flexibility and management for those involved in more projects. Lastly, a requirement is that the count of vacation days should be visible for the employee so that they have an overview of how many days they are allowed to take off. This is where the loan comes in to play, as an employee might borrow vacation days that they will save up at a later time to pay be able to off eventually #todo[source interview med Dion.]
+The first User Management as each employee should already be registered in the system due to the integration that we will implement with KMD's internal system. That means that each employee can already access their own calendar and make teams from the get-go, they do not need to register. This also makes sure that every employee has access to their personal calendar and its functionalities as soon as they go on the application #todo("interview som source"). Next is Vacation & Sick Day Management where users submit time off by selecting the date and type of vacation that depends on whether the employee is danish or polish. Users should also be able to modify or cancel these inserts. Another requirement is Team Creation and Management within the calendar. A user can create a team by adding a group of employees they want as team members, where the creator automatically is assigned as the team administrator. This team allows all team members to view one another’s calendars in one—even if they belong to different departments. If a team creator no longer wants to hold the administrator role, they can transfer it to another team member. Additionally, employees can belong to multiple teams at the same time, so it is not limited to one team per employee for flexibility and management for those involved in more projects. Lastly, a requirement is that the count of vacation days should be visible for the employee so that they have an overview of how many days they are allowed to take off. This is where the loan comes in to play, as an employee might borrow vacation days that they will save up at a later time to pay be able to off eventually  @InterviewDion .
 The system must also meet specific Non-Functional Requirements that describe its operational qualities, so this is an explanation of the quality attributes or performance criteria the system must meet @functionalRequirementsJama. Reliability is a primary consideration; the vacation system should handle several inputs without slowing down. This is especially important during peak times like holiday seasons. Response times for submitting requests should ideally remain under 2 seconds. Scalability is also important to accommodate future growth so this is also a requirement @Erb2012. The application should be able to support more users, teams, and departments as the company expands or changes. 
