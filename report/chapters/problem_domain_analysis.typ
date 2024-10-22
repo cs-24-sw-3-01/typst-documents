@@ -271,6 +271,6 @@ After several iterations and refinements, the following event table was develope
 - *Holiday Addition:* Happens when a new company-wide or public holiday is added to the system. The system updates all relevant calendars to reflect the holiday.
 
 == Behaviour Stucture
-The previously created event table now shows all the events and classes within the system. To get a clearer understanding of the connection between the events and classes, a behavioral pattern will be described using statecharts. A statechart will be created for each class to show the possible states and how the states changes. To achieve this, control structures such as sequence, selection, and iterations will be used.
+@table:competitors now shows all the events and classes within the system. To get a clearer understanding of the connection between the events and classes, a behavioral pattern will be described using statecharts. A statechart will be created for each class to show the possible states and how the states changes. To achieve this, control structures such as sequence, selection, and iterations will be used.
 
 A statechart for each identified class will be made as follows:
