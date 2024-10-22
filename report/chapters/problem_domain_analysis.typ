@@ -5,11 +5,22 @@
 = Problem Domain Analysis
 
 
-#figure(image("../assets/rich_picture.png"), caption: [Rich Picture of KMD Absenceplanner])
+#figure(image("../assets/rich-picture.png"), caption: [Rich Picture of KMD vacation registration])
 
 #pagebreak()
+//explain the main purposeof the current workflow( i.e. the end result)
+for each project in KMD, a team is created to handle it this can employees from different departments.Each team member will have vacation days that can be registerede in 3 different places: SAP, outlook and the KMD vacation planner. The prefered vacation registartion place is decided by the individual teams/departments therefore there are different scenarioes of how the registration of vacation takes place. 
+
+registartion of vacation in SAP. 
+all employees have to register their vacation in SAP. This vacation is accepted by the their manager. The employees vacation can only be viewed internally in the different departments.  
+
+registartion of vacation in outlook. 
+when vacation is registered in SAP an invite is send to Outlook to accept the vacation. When the vacation is accepted it can be vieved in the individual employees outlook calandar. A limitation is that the employee has to remember to accept the invite in outlook and 
 
 
+//explain the work flow 
+
+//explain possible limitations of the work flow. 
 
 == Classes and Events in Software Development
 In object-oriented software development, classes and events are two fundamental concepts that help model real-world systems and behaviors. Understanding these concepts is essential for designing a robust and scalable solution, such as the "KMD Absence Planner".
