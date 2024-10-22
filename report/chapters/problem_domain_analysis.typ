@@ -273,9 +273,13 @@ After several iterations and refinements, the following event table was develope
 
 - *Holiday Addition:* Happens when a new company-wide or public holiday is added to the system. The system updates all relevant calendars to reflect the holiday.
 
-#pagebreak()
 
 == Stucture and Behaviour 
+@table:competitors now shows all the events and classes within the system. To get a clearer understanding of the connection between the events and classes, a behavioral pattern will be described using statecharts. A statechart will be created for each class to show the possible states and how the states changes. To achieve this, control structures such as sequence, selection, and iterations will be used.
+
+A statechart for each identified class will be made as follows:
+
+#pagebreak()
 
 === Class Diagrams
 
@@ -290,3 +294,4 @@ Class diagrams are composed of several key components:
 - *Multiplicity:* Indicates how many instances of one class relate to instances of another class (e.g., one-to-many or many-to-many relationships).
 
 Class diagrams serve as a critical tool in both the analysis and design phases of system development. By organizing the system into well-defined classes and relationships, class diagrams help clarify the structure, making it easier to identify responsibilities and dependencies between entities. Additionally, they provide a visual roadmap for building and maintaining a system, ensuring consistency and coherence in the design.
+
