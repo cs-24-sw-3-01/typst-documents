@@ -1,5 +1,8 @@
 #import "../custom.typ": *
-#import "../sources/DionInterview.typ"
+#import "../sources/CarolineInterview.typ": *
+#import "../sources/DionInterview.typ": *
+#import "../sources/LindaInterview.typ": *
+#import "../sources/MatsInterview.typ": *
 
 == Interview Process Overview
 The process of gathering information began by contacting KMD to arrange interviews with relevant employees. We were granted access to four individuals across different departments. Before the interviews, our team conducted a brainstorming session to generate as many relevant questions as possible. These questions were then documented and organized into a script.
@@ -15,13 +18,11 @@ their project portfolio manager, Caroline Ramsdal and their manager of modern wo
 
 Transcriptions of said interviews can be found in @InterviewLinda, @InterviewDion,  @InterviewMats and @InterviewCaroline
 
-
 To find out why KMD needs a new system for managing their holiday calender i was important to find the problems with the current solution.
 The interviews revealed problems with synchronizing with their current SAP system.
 system but surprisingly most of the problems with the current system is a lack of features due to the system being developed 10 years ago. 
 The features that are missing can be seen in @missing-features-table. \
 The absence of these features and the synchronizing problems with SAP have led to most of the employees using other programs to plan their holidays with most of the active users being employees that have worked at the company for a longer time. 
-
 
 #figure(
   table(
@@ -42,6 +43,7 @@ The absence of these features and the synchronizing problems with SAP have led t
 
 
 == PACT
+// TODO: Make the two sections less repeating
 The PACT analysis is a framework used to understand and design systems with a focus on four key areas: People, Activities, Context, and Technology. This approach ensures that the system being developed takes into consideration the users (People), what they need to do (Activities), the environments where the system will be used (Context), and the tools or platforms (Technology) required to make the system work effectively.
 
 By analyzing these four elements, a PACT analysis helps in designing systems that are user-centered, context-aware, and equipped with the right technology, ultimately enhancing the user experience and ensuring the system meets the needs of its intended audience @DEBBook. 
